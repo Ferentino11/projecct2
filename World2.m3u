@@ -2077,31 +2077,107 @@ https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1 ,Zjarr TV (New!)
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
-#EXTINF:-1,BEIN SPORT 1
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14438
-#EXTINF:-1,BEIN SPORT 10
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14447
-#EXTINF:-1,BEIN SPORT 2
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14439
-#EXTINF:-1,BEIN SPORT 3
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14440
-#EXTINF:-1,BEIN SPORT 4
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14441
-#EXTINF:-1,BEIN SPORT 5
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14442
-#EXTINF:-1,BEIN SPORT 6
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14443
-#EXTINF:-1,BEIN SPORT 7
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14444
-#EXTINF:-1,BEIN SPORT 8
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14445
-#EXTINF:-1,BEIN SPORT 9
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14446
-#EXTINF:-1,BEIN SPORTS 11
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14448
-#EXTINF:-1,BEIN SPORTS 12
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14449
-#EXTINF:-1,BEIN SPORTS 13
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14450
-#EXTINF:-1,BEIN SPORTS GLOBAL
-http://estero-channels.flsi.best:25000/wBRtVTPUe1/ZpwpqW2rUs/14437
+#EXTINF:-1,BEINSPORT 1 FR
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92221
+#EXTINF:-1,BEINSPORT 2 FR
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92222
+#EXTINF:-1,BEINSPORT 3 FR
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92223
+#EXTINF:-1,BEINSPORT-MAX-10
+http://185.232.53.5:2086/gennaro/gennaro/92230
+#EXTINF:-1,BEINSPORT-MAX-10
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92230
+#EXTINF:-1,BEINSPORT-MAX-4
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92224
+#EXTINF:-1,BEINSPORT-MAX-5
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92225
+#EXTINF:-1,BEINSPORT-MAX-6
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92226
+#EXTINF:-1,BEINSPORT-MAX-7
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92227
+#EXTINF:-1,BEINSPORT-MAX-8
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92228
+#EXTINF:-1,BEINSPORT-MAX-9
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92229
+#EXTINF:-1,BEIN SPORTS 1
+http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts
+#EXTINF:-1,BEIN SPORTS 2
+http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts
+#EXTINF:-1,BEIN SPORTS 3
+http://fariszah.myq-see.com:8008/live/demo/demo/21550.ts
+#EXTINF:-1,BEIN SPORTS 4
+http://fariszah.myq-see.com:8008/live/demo/demo/21551.ts
+#EXTINF:-1,BEIN SPORTS 5
+http://fariszah.myq-see.com:8008/live/demo/demo/21552.ts
+#EXTINF:-1,BEIN SPORTS 6
+http://fariszah.myq-see.com:8008/live/demo/demo/21553.ts
+#EXTINF:-1,BEIN SPORTS 7
+http://fariszah.myq-see.com:8008/live/demo/demo/2308.ts
+#EXTINF:-1,BEIN SPORTS 8
+http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
+#EXTINF:-1,BEIN SPORTS 9
+http://fariszah.myq-see.com:8008/live/demo/demo/2315.ts
+#EXTINF:-1,BEIN SPORTS 10
+http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
+#EXTINF:-1,BEIN SPORTS 1 *
+http://fariszah.myq-see.com:8008/live/demo/demo/1941.ts
+#EXTINF:-1,BEIN SPORTS 2 *
+http://fariszah.myq-see.com:8008/live/demo/demo/1942.ts
+#EXTINF:-1,BEIN SPORTS 3 *
+http://fariszah.myq-see.com:8008/live/demo/demo/1943.ts
+#EXTINF:-1,BEIN SPORTS 4 *
+http://fariszah.myq-see.com:8008/live/demo/demo/1944.ts
+#EXTINF:-1,BEIN SPORTS 5 *
+http://fariszah.myq-see.com:8008/live/demo/demo/1945.ts
+#EXTINF:-1,BEIN SPORTS 6 *
+http://fariszah.myq-see.com:8008/live/demo/demo/1946.ts
+#EXTINF:-1,BEIN SPORTS 7 *
+http://fariszah.myq-see.com:8008/live/demo/demo/2261.ts
+#EXTINF:-1,BEIN SPORTS 1 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21566.ts
+#EXTINF:-1,BEIN SPORTS 2 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21567.ts
+#EXTINF:-1,BEIN SPORTS 3 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21568.ts
+#EXTINF:-1,BEIN SPORTS 4 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21576.ts
+#EXTINF:-1,BEIN SPORTS 5 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21577.ts
+#EXTINF:-1,BEIN SPORTS 6 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21578.ts
+#EXTINF:-1,BEIN SPORTS 7 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21579.ts
+#EXTINF:-1,BEIN SPORTS 8 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21580.ts
+#EXTINF:-1,BEIN SPORTS 9 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21581.ts
+#EXTINF:-1,BEIN SPORTS 10 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21582.ts
+#EXTINF:-1,WWE
+http://fariszah.myq-see.com:8008/live/demo/demo/1951.ts
+#EXTINF:-1 ,﻿SKY SPORT 24 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10410
+#EXTINF:-1 ,﻿SKY SPORT 24 HD_
+http://seeyoutv.net:2300/parigi/parigi/10409
+#EXTINF:-1 ,﻿SKY SPORT ARENA FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10407
+#EXTINF:-1 ,﻿SKY SPORT ARENA HD
+http://seeyoutv.net:2300/parigi/parigi/10406
+#EXTINF:-1 ,﻿SKY SPORT FOOTBALL FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10400
+#EXTINF:-1 ,﻿SKY SPORT FOOTBALL HD
+http://seeyoutv.net:2300/parigi/parigi/10399
+#EXTINF:-1 ,﻿SKY SPORT SERIE A FULL HD_
+http://seeyoutv.net:2300/parigi/parigi/10388
+#EXTINF:-1 ,﻿SKY SPORT SERIE A HD
+http://seeyoutv.net:2300/parigi/parigi/10387
+#EXTINF:-1 ,﻿SKY SPORT UNO FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10385
+#EXTINF:-1 ,﻿SKY SPORT UNO HD_
+http://seeyoutv.net:2300/parigi/parigi/10384
+#EXTINF:-1 ,﻿Digi Sport 2 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/mono.m3u8
+#EXTINF:-1 ,﻿Digi Sport 3 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/mono.m3u8
+#EXTINF:-1 ,﻿Digi Sport 4 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/index.m3u8
