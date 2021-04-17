@@ -2477,91 +2477,181 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2 " tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
-#EXTINF:-1 ,|AR| BEIN SPORTS 1 HD²
-http://185.71.64.167:2086/477813257145727/477813257145727/78600
-#EXTINF:-1 ,|AR| BEIN SPORT HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78620
-#EXTINF:-1 ,|AR| BEIN SPORTS SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78583
-#EXTINF:-1 ,|AR| BEIN SPORT NEWS HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78618
-#EXTINF:-1 ,|AR| BEIN SPORTS NEWS SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78582
-#EXTINF:-1 ,|AR| BEIN SPORTS 1 HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78617
-#EXTINF:-1 ,|AR| BEIN SPORTS 1 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78580
-#EXTINF:-1 ,|AR| BEIN SPORTS 2 HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78616
-#EXTINF:-1 ,|AR| BEIN SPORTS 2 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78579
-#EXTINF:-1 ,|AR| BEIN SPORTS 3 HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78615
-#EXTINF:-1 ,|AR| BEIN SPORTS 3 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78578
-#EXTINF:-1 ,|AR| BEIN SPORTS 3 HD²
-http://185.71.64.167:2086/477813257145727/477813257145727/78598
-#EXTINF:-1 ,|AR| BEIN SPORTS 4 HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78614
-#EXTINF:-1 ,|AR| BEIN SPORTS 4 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78577
-#EXTINF:-1 ,|AR| BEIN SPORTS 4 HD²
-http://185.71.64.167:2086/477813257145727/477813257145727/78597
-#EXTINF:-1 ,|AR| BEIN SPORTS 5 HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78613
-#EXTINF:-1 ,|AR| BEIN SPORTS 5 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78576
-#EXTINF:-1 ,|AR| BEIN SPORTS 5 HD²
-http://185.71.64.167:2086/477813257145727/477813257145727/78596
-#EXTINF:-1 ,|AR| BEIN SPORTS 6 HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78612
-#EXTINF:-1 ,|AR| BEIN SPORTS 6 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78575
-#EXTINF:-1 ,|AR| BEIN SPORTS 6 HD²
-http://185.71.64.167:2086/477813257145727/477813257145727/78595
-#EXTINF:-1 ,|AR| BEIN SPORTS 7 HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78611
-#EXTINF:-1 ,|AR| BEIN SPORTS 7 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78574
-#EXTINF:-1 ,|AR| BEIN SPORTS 7 HD²
-http://185.71.64.167:2086/477813257145727/477813257145727/78594
-#EXTINF:-1 ,|AR| BEIN SPORTS 8 HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78610
-#EXTINF:-1 ,|AR| BEIN SPORTS 8 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78573
-#EXTINF:-1 ,|AR| BEIN SPORTS 8 HD²
-http://185.71.64.167:2086/477813257145727/477813257145727/78593
-#EXTINF:-1 ,|AR| BEIN SPORTS 9 HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78609
-#EXTINF:-1 ,|AR| BEIN SPORTS 9 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78572
-#EXTINF:-1 ,|AR| BEIN SPORTS 10 HD OLYMPIC
-http://185.71.64.167:2086/477813257145727/477813257145727/78608
-#EXTINF:-1 ,|AR| BEIN SPORTS 10 SD OLYMPIC
-http://185.71.64.167:2086/477813257145727/477813257145727/78571
-#EXTINF:-1 ,|AR| BEIN SPORTS 11 HD EN
-http://185.71.64.167:2086/477813257145727/477813257145727/78607
-#EXTINF:-1 ,|AR| BEIN SPORTS 11 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78570
-#EXTINF:-1 ,|AR| BEIN SPORTS 12 HD EN
-http://185.71.64.167:2086/477813257145727/477813257145727/78606
-#EXTINF:-1 ,|AR| BEIN SPORTS 12 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78569
-#EXTINF:-1 ,|AR| BEIN SPORTS 13 HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78605
-#EXTINF:-1 ,|AR| BEIN SPORTS 13 HD²
-http://185.71.64.167:2086/477813257145727/477813257145727/78588
-#EXTINF:-1 ,|AR| BEIN SPORTS 14 HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78604
-#EXTINF:-1 ,|AR| BEIN SPORTS 14 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78567
-#EXTINF:-1 ,|AR| BEIN SPORTS 15 HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78603
-#EXTINF:-1 ,|AR| BEIN SPORTS 15 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78566
-#EXTINF:-1 ,|AR| BEIN SPORTS 16 HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78602
-#EXTINF:-1 ,|AR| BEIN SPORTS 16 SD
-http://185.71.64.167:2086/477813257145727/477813257145727/78565
-#EXTINF:-1 ,|AR| BEIN SPORTS NBA HD
-http://185.71.64.167:2086/477813257145727/477813257145727/78619
+#EXTINF:-1 ,SuperSport 1
+http://alontv.info:8000/live/ontvtest/172722/78.ts
+#EXTINF:-1 ,SuperSport 2
+http://alontv.info:8000/live/ontvtest/172722/79.ts
+#EXTINF:-1 ,SuperSport 3
+http://alontv.info:8000/live/ontvtest/172722/80.ts
+#EXTINF:-1 ,SuperSport 4
+http://alontv.info:8000/live/ontvtest/172722/81.ts
+#EXTINF:-1 ,SuperSport 5
+http://alontv.info:8000/live/ontvtest/172722/82.ts
+#EXTINF:-1 ,SuperSport 6
+http://alontv.info:8000/live/ontvtest/172722/83.ts
+#EXTINF:-1 ,Tring Sport News
+http://alontv.info:8000/live/ontvtest/172722/92.ts
+#EXTINF:-1 ,Tring Sport 1
+http://alontv.info:8000/live/ontvtest/172722/93.ts
+#EXTINF:-1 ,Tring Sport 2
+http://alontv.info:8000/live/ontvtest/172722/94.ts
+#EXTINF:-1 ,Tring Sport 3
+http://alontv.info:8000/live/ontvtest/172722/95.ts
+#EXTINF:-1 ,Tring Sport 4
+http://alontv.info:8000/live/ontvtest/172722/96.ts
+#EXTINF:-1 ,Kujtesa Sport 1
+http://alontv.info:8000/live/ontvtest/172722/179.ts
+#EXTINF:-1 ,Kujtesa Sport 2
+http://alontv.info:8000/live/ontvtest/172722/180.ts
+#EXTINF:-1 ,Kujtesa Sport 3
+http://alontv.info:8000/live/ontvtest/172722/181.ts
+#EXTINF:-1 ,Kujtesa Sport 4
+http://alontv.info:8000/live/ontvtest/172722/182.ts
+#EXTINF:-1 ,Kujtesa Sport 5
+http://alontv.info:8000/live/ontvtest/172722/258.ts
+#EXTINF:-1 ,RTV Fontana
+http://alontv.info:8000/live/ontvtest/172722/341.ts
+#EXTINF:-1 ,Eurosport
+http://alontv.info:8000/live/ontvtest/172722/121.ts
+#EXTINF:-1 ,Eurosport 2
+http://alontv.info:8000/live/ontvtest/172722/122.ts
+#EXTINF:-1 ,DE: Sky Sport 1
+http://alontv.info:8000/live/ontvtest/172722/190.ts
+#EXTINF:-1 ,DE: Sky Sport 2
+http://alontv.info:8000/live/ontvtest/172722/191.ts
+#EXTINF:-1 ,DE: Sky Bundesliga 1
+http://alontv.info:8000/live/ontvtest/172722/192.ts
+#EXTINF:-1 ,DE: Dazn 1
+http://alontv.info:8000/live/ontvtest/172722/579.ts
+#EXTINF:-1 ,DE: Dazn 2
+http://alontv.info:8000/live/ontvtest/172722/580.ts
+#EXTINF:-1 ,DE: Eurosport 1
+http://alontv.info:8000/live/ontvtest/172722/885.ts
+#EXTINF:-1 ,DE: Eurosport 2 HD Xtra
+http://alontv.info:8000/live/ontvtest/172722/886.ts
+#EXTINF:-1 ,DE: Sport1
+http://alontv.info:8000/live/ontvtest/172722/925.ts
+#EXTINF:-1 ,Sky Sports NFL HD UK
+http://alontv.info:8000/live/ontvtest/172722/142.ts
+#EXTINF:-1 ,Sky Sports F1 UK
+http://alontv.info:8000/live/ontvtest/172722/152.ts
+#EXTINF:-1 ,Sky Sports Football HD UK
+http://alontv.info:8000/live/ontvtest/172722/139.ts
+#EXTINF:-1 ,Sky Sports Golf HD UK
+http://alontv.info:8000/live/ontvtest/172722/141.ts
+#EXTINF:-1 ,Sky Sports Main Events HD UK
+http://alontv.info:8000/live/ontvtest/172722/140.ts
+#EXTINF:-1 ,Sky Sports News UK
+http://alontv.info:8000/live/ontvtest/172722/151.ts
+#EXTINF:-1 ,Sky Sports Premier League HD UK
+http://alontv.info:8000/live/ontvtest/172722/138.ts
+#EXTINF:-1 ,Sport TV 1 HD
+http://alontv.info:8000/live/ontvtest/172722/627.ts
+#EXTINF:-1 ,Sport TV 2 HD
+http://alontv.info:8000/live/ontvtest/172722/628.ts
+#EXTINF:-1 ,Sport TV 3 HD
+http://alontv.info:8000/live/ontvtest/172722/629.ts
+#EXTINF:-1 ,Sport TV 4 HD
+http://alontv.info:8000/live/ontvtest/172722/630.ts
+#EXTINF:-1 ,Sport TV 5 HD
+http://alontv.info:8000/live/ontvtest/172722/631.ts
+#EXTINF:-1 ,FR: BeIN Sport 1
+http://alontv.info:8000/live/ontvtest/172722/403.ts
+#EXTINF:-1 ,FR: BeIN Sport 2
+http://alontv.info:8000/live/ontvtest/172722/404.ts
+#EXTINF:-1 ,FR: BeIN Sport 3
+http://alontv.info:8000/live/ontvtest/172722/405.ts
+#EXTINF:-1 ,beIN Sport 1 TR
+http://alontv.info:8000/live/ontvtest/172722/524.ts
+#EXTINF:-1 ,beIN Sport 2 TR
+http://alontv.info:8000/live/ontvtest/172722/525.ts
+#EXTINF:-1 ,beIN Sport 3 TR
+http://alontv.info:8000/live/ontvtest/172722/526.ts
+#EXTINF:-1 ,FR: RMC Sport 1 HD
+http://alontv.info:8000/live/ontvtest/172722/889.ts
+#EXTINF:-1 ,FR: RMC Sport 2 HD
+http://alontv.info:8000/live/ontvtest/172722/890.ts
+#EXTINF:-1 ,FR: RMC Sport 3 HD
+http://alontv.info:8000/live/ontvtest/172722/891.ts
+#EXTINF:-1 ,FR: RMC Sport 4 HD
+http://alontv.info:8000/live/ontvtest/172722/892.ts
+#EXTINF:-1 ,FR: Canal + Sport HD
+http://alontv.info:8000/live/ontvtest/172722/888.ts
+#EXTINF:-1 ,BT Sport 1
+http://alontv.info:8000/live/ontvtest/172722/156.ts
+#EXTINF:-1 ,BT Sport 2
+http://alontv.info:8000/live/ontvtest/172722/157.ts
+#EXTINF:-1 ,BT Sport 3
+http://alontv.info:8000/live/ontvtest/172722/158.ts
+#EXTINF:-1 ,BT Sport ESPN
+http://alontv.info:8000/live/ontvtest/172722/159.ts
+#EXTINF:-1 ,Sport Klub 1
+http://alontv.info:8000/live/ontvtest/172722/112.ts
+#EXTINF:-1 ,Sport Klub 2
+http://alontv.info:8000/live/ontvtest/172722/113.ts
+#EXTINF:-1 ,Sport Klub 3
+http://alontv.info:8000/live/ontvtest/172722/114.ts
+#EXTINF:-1 ,Sport Klub 4
+http://alontv.info:8000/live/ontvtest/172722/153.ts
+#EXTINF:-1 ,Sport Klub 5
+http://alontv.info:8000/live/ontvtest/172722/115.ts
+#EXTINF:-1 ,Sport Klub 6
+http://alontv.info:8000/live/ontvtest/172722/116.ts
+#EXTINF:-1 ,Arena Sport 1 HR
+http://alontv.info:8000/live/ontvtest/172722/104.ts
+#EXTINF:-1 ,Arena Sport 2 HR
+http://alontv.info:8000/live/ontvtest/172722/105.ts
+#EXTINF:-1 ,Arena Sport 3 HR
+http://alontv.info:8000/live/ontvtest/172722/106.ts
+#EXTINF:-1 ,Arena Sport 4 HR
+http://alontv.info:8000/live/ontvtest/172722/188.ts
+#EXTINF:-1 ,Arena Sport 5 HR
+http://alontv.info:8000/live/ontvtest/172722/193.ts
+#EXTINF:-1 ,Arena Sport 1 RS
+http://alontv.info:8000/live/ontvtest/172722/107.ts
+#EXTINF:-1 ,Arena Sport 2 RS
+http://alontv.info:8000/live/ontvtest/172722/108.ts
+#EXTINF:-1 ,Arena Sport 3 RS
+http://alontv.info:8000/live/ontvtest/172722/109.ts
+#EXTINF:-1 ,Arena Sport 4 RS
+http://alontv.info:8000/live/ontvtest/172722/110.ts
+#EXTINF:-1 ,Arena Sport 5 RS
+http://alontv.info:8000/live/ontvtest/172722/111.ts
+#EXTINF:-1 ,Canal + Sport HD
+http://alontv.info:8000/live/ontvtest/172722/625.ts
+#EXTINF:-1 ,Canal + Sport 2 HD
+http://alontv.info:8000/live/ontvtest/172722/626.ts
+#EXTINF:-1 ,Eleven Sports 1 HD
+http://alontv.info:8000/live/ontvtest/172722/621.ts
+#EXTINF:-1 ,Eleven Sports 2 HD
+http://alontv.info:8000/live/ontvtest/172722/622.ts
+#EXTINF:-1 ,Eleven Sports 3 HD
+http://alontv.info:8000/live/ontvtest/172722/623.ts
+#EXTINF:-1 ,Eleven Sports 4 HD
+http://alontv.info:8000/live/ontvtest/172722/624.ts
+#EXTINF:-1 ,Match! Futbol 1 HD
+http://alontv.info:8000/live/ontvtest/172722/952.ts
+#EXTINF:-1 ,Match! Futbol 2 HD
+http://alontv.info:8000/live/ontvtest/172722/953.ts
+#EXTINF:-1 ,Match! Futbol 3 HD
+http://alontv.info:8000/live/ontvtest/172722/954.ts
+#EXTINF:-1 ,Diema Sport HD
+http://alontv.info:8000/live/ontvtest/172722/921.ts
+#EXTINF:-1 ,Diema Sport 2 HD
+http://alontv.info:8000/live/ontvtest/172722/922.ts
+#EXTINF:-1 ,Digi Sport 1 HD
+http://alontv.info:8000/live/ontvtest/172722/893.ts
+#EXTINF:-1 ,Digi Sport 2 HD
+http://alontv.info:8000/live/ontvtest/172722/894.ts
+#EXTINF:-1 ,Digi Sport 3 HD
+http://alontv.info:8000/live/ontvtest/172722/895.ts
+#EXTINF:-1 ,Fox Sport 1 NL
+http://alontv.info:8000/live/ontvtest/172722/398.ts
+#EXTINF:-1 ,Fox Sport 2 NL
+http://alontv.info:8000/live/ontvtest/172722/399.ts
+#EXTINF:-1 ,Fox Sport 3 NL
+http://alontv.info:8000/live/ontvtest/172722/400.ts
+#EXTINF:-1 ,Fox Sport 4 NL
+http://alontv.info:8000/live/ontvtest/172722/401.ts
+#EXTINF:-1 ,Ziggo Sport Select
+http://alontv.info:8000/live/ontvtest/172722/800.ts
