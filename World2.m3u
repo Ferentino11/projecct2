@@ -35,8 +35,8 @@ http://51.158.190.97/hls/stream.m3u8
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 ,24 Horas (Opt-2)
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 ,24/7 Super Geek Heroes
-https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,HANAFI M6
+https://www.6play.fr/m6/direct
 #EXTINF:-1 ,25 TV
 http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,2M Monde (Opt-1)
