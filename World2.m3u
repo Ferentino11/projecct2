@@ -2517,165 +2517,1190 @@ http://79.101.42.11:17000/play/SkyBundesliga1
 http://79.101.42.11:17000/play/SkyBundesliga2
 #EXTINF:-1,Sky Sport Bundesliga 3 HD
 http://79.101.42.11:17000/play/SkyBundesliga3
-#EXTINF:-1,Sky Sport Bundesliga 4 HD
-http://79.101.42.11:17000/play/SkyBundesliga4
-#EXTINF:-1,TNT Comedy HD
-http://79.101.42.11:17000/play/TNTComedy
-#EXTINF:-1,TNT Film HD
-http://79.101.42.11:17000/play/a03s
-#EXTINF:-1, TF1
-http://pebbles109-lh.akamaihd.net/i/tf1_1@97468/index_900_av-b.m3u8|User-Agent=Mozilla%2F5.0%20(iPhone%3B%20U%3B%20CPU%20iPhone%20OS%203_0%20like%20Mac%20OS%20X%3B%20en-us)%20AppleWebKit%2F528.18%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Mobile%2F7A341%20Safari%2F528.16&X-Forwarded-For=146.159.95.38
-
-#EXTINF:-1 ,TF1
-http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/tf1hl874093481.m3u8
-
-#EXTINF:-1,France 2 HD
-http://pebbles101-lh.akamaihd.net/i/france2_1@97347/index_900_av-b.m3u8|X-Forwarded-For=146.159.95.38
-
-#EXTINF:-1,France 3
-http://pebbles100-lh.akamaihd.net/i/france3_1@97329/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
-
-#EXTINF:-1,France 2
-http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/f277209358946trd.m3u8
-#EXTINF:-1 ,France 3
-http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/f37736209812hgd.m3u8
-
-#EXTINF:-1,France 5
-http://pebbles102-lh.akamaihd.net/i/france5_1@97351/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
-
-#EXTINF:-1,M6 HD
-http://pebbles108-lh.akamaihd.net/i/m6_1@97467/index_1300_av-p.m3u8|X-Forwarded-For=146.159.95.38
-
-#EXTINF:-1 ,M6
-http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/m6hd339407138.m3u8
-#EXTINF:-1 ,Arte
-http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/artehd90231836.m3u8
-#EXTINF:-1 ,D8
-http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/d8hd8183309618.m3u8
-
-#EXTINF:-1,CHASSE ET PECHE
-http://87.248.160.8/edge/smil:chassepeche/playlist.m3u8
-#EXTINF:-1,CANAL+
-http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canphd38917199.m3u8
-#EXTINF:-1,CANAL+ Cinéma
-http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canchd939493889.m3u8
-#EXTINF:-1,CANAL+ Décalé
-http://wpc.e803.mucdn.net/80E803/Scam/hls/Canal_Plus_Decale_HD.m3u8
-#EXTINF:-1,CANAL+ Sport
-http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canshd7432765230.m3u8
-#EXTINF:-1,CANAL+ Séries
-http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canshdx84993660.m3u8
-#EXTINF:-1,CANAL+ Family
-http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canf23851231yuf.m3u8
-#EXTINF:-1,CINE+ Premier
-http://wpc.e803.mucdn.net/80E803/Scam/hls/Cine_plus_Premier_HD.m3u8
-
-#EXTINF:-1,CINE+ Emotion
-http://wpc.e803.mucdn.net/80E803/Scam/hls/Cine_Emotion_HD.m3u8
-#EXTINF:-1 ,Science & Vie Tv
-http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
-#EXTINF:-1 ,My Zen.tv
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2
-#EXTINF:-1 ,NAT GEO WILD
-http://wpc.e803.mucdn.net/80E803/Scam/hls/National_Geo_Wild_FR_HD.m3u8
-#EXTINF:-1 ,NATIONAL GEO
-http://wpc.e803.mucdn.net/80E803/Scam/hls/National_Geo_FR_HD.m3u8
-#EXTINF:-1 ,PLANETE+ THALASSA
-http://wpc.e803.mucdn.net/80E803/Scam/hls/Planet_Thalassa_HD.m3u8
-#EXTINF:-1 ,PLANETE+
-http://wpc.e803.mucdn.net/80E803/Scam/hls/Planet_Plus_HD.m3u8
-#EXTINF:-1 ,Gong Base
-rtsp://ec.playmedia.fr:1935/gong-base/live
-#EXTINF:-1 ,AB1
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=ab1&type=.m3u8
-
-#EXTINF:-1,TV5MONDE
-http://pvr.tvip.ga/0234.m3u8|X-Forwarded-For=81.17.18.51
-#EXTINF:-1,Cartoon Network
-http://pvr.tvip.ga/0239.m3u8|X-Forwarded-For=81.17.18.51
-#EXTINF:-1 ,RTL9
-http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
-
-#EXTINF:-1,Arte (German/French Tv)
-http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-#EXTINF:-1,Arte
-http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-
-#EXTINF:-1,Arte HD
-http://pebbles101-lh.akamaihd.net/i/artefr_1@97346/index_1300_av-p.m3u8|X-Forwarded-For=146.159.95.38
-
-#EXTINF:-1 tvg-id= »I123.751942.microsoft.com » tvg-name= »CP » group-title= »Franco »,CHASSE ET PECHE
-http://87.248.160.8/edge/smil:chassepeche/playlist.m3u8
-
-#EXTINF:-1,WÈo
-rtmp://str81.creacast.com:80/weo/high
-
-#EXTINF:-1, Antenne RÈunion
-http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo= »tva.png » tvg-id= »I4.28457403.microsoft.com » tvg-name= »TVA » group-title= »FRANCO »,TVA Montréal
-http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
-
-
 #EXTM3U
-#EXTINF:-1,[COLOR yellow]by http://iptv-m3u-playlist-url.blogspot.com/[/COLOR]
-1,RTS Un 576P tntfrfree
-http://tntfrforfree.1s.fr/124/play.m3u8
- #EXTINF:-1,RTS Deux 576P tntfrfree
-http://tntfrforfree.1s.fr/125/play.m3u8
- #EXTINF:-1,HD1 1080P tntfrfree
-http://tntfrforfree.1s.fr/20/play.m3u8
- #EXTINF:-1,NUMERO 23 1080P tntfrfree
-http://tntfrforfree.1s.fr/23/play.m3u8
- #EXTINF:-1,Cherie 25 1080P tntfrfree
-http://tntfrforfree.1s.fr/25/play.m3u8
- #EXTINF:-1,M6 HD 1080P tntfrfree
-http://tntfrforfree.1s.fr/6/play.m3u8
- #EXTINF:-1,M6 HD 576P tntfrfree
-http://tntfrforfree.1s.fr/106/play.m3u8
- #EXTINF:-1,6TER 1080P tntfrfree
-http://tntfrforfree.1s.fr/22/play.m3u8
- #EXTINF:-1,Canal+ 576P tntfrfree
-http://tntfrforfree.1s.fr/4/play.m3u8
- #EXTINF:-1,TF1 HD 1080P tntfrfree
-http://tntfrforfree.1s.fr/1/play.m3u8
- #EXTINF:-1,TF1 576P tntfrfree
-http://tntfrforfree.1s.fr/101/play.m3u8
- #EXTINF:-1,France Q 576P tntfrfree
-http://tntfrforfree.1s.fr/19/play.m3u8
- #EXTINF:-1,France 2 HD 1080P tntfrfree
-http://tntfrforfree.1s.fr/2/play.m3u8
- #EXTINF:-1,France 2 576P tntfrfree
-http://tntfrforfree.1s.fr/102/play.m3u8
- #EXTINF:-1,France 3 576P tntfrfree
-http://tntfrforfree.1s.fr/30/play.m3u8
- #EXTINF:-1,France 4 576P tntfrfree
-http://tntfrforfree.1s.fr/14/play.m3u8
- #EXTINF:-1,France 5 576P tntfrfree
-http://tntfrforfree.1s.fr/5/play.m3u8
- #EXTINF:-1,ARTE 1080P tntfrfree
-http://tntfrforfree.1s.fr/7/play.m3u8
- #EXTINF:-1,ARTE 576P tntfrfree
-http://tntfrforfree.1s.fr/107/play.m3u8
- #EXTINF:-1,D8 576P tntfrfree
-http://tntfrforfree.1s.fr/8/play.m3u8
- #EXTINF:-1,D17 576P tntfrfree
-http://tntfrforfree.1s.fr/17/play.m3u8
- #EXTINF:-1,W9 576P tntfrfree
-http://tntfrforfree.1s.fr/9/play.m3u8
- #EXTINF:-1,TMC 576P tntfrfree
-http://tntfrforfree.1s.fr/10/play.m3u8
- #EXTINF:-1,NT1 576P tntfrfree
-http://tntfrforfree.1s.fr/11/play.m3u8
- #EXTINF:-1,NRJ12 576P tntfrfree
-http://tntfrforfree.1s.fr/12/play.m3u8
- #EXTINF:-1,BFM 576P tntfrfree
-http://tntfrforfree.1s.fr/15/play.m3u8
- #EXTINF:-1,Gulli 576P tntfrfree
-http://tntfrforfree.1s.fr/18/play.m3u8
- #EXTINF:-1,Lequipe 1080P
-http://tntfrforfree.1s.fr/21/play.m3u8
- #EXTINF:-1,RMC Docouverte 1080P tntfrfree
-http://tntfrforfree.1s.fr/24/play.m3u8
- #EXTINF:-1,TV8 Mont Blanc 576P tntfrfree
-http://tntfrforfree.1s.fr/31/play.m3u8 
+#EXTINF:-1,------------- FRANCE HD --------------
+http://bazarhd.online:80/live/307210113513/307210113513/78494.m3u8
+#EXTINF:-1,|FR| CORONA VIRUS INFOVIRUS INFO
+http://bazarhd.online:80/live/307210113513/307210113513/78493.m3u8
+#EXTINF:-1,|FR|SD| CORONA VIRUS INFO
+http://bazarhd.online:80/live/307210113513/307210113513/79133.m3u8
+#EXTINF:-1,|FR| TF1 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78492.m3u8
+#EXTINF:-1,|FR|SD| TF1 
+http://bazarhd.online:80/live/307210113513/307210113513/79132.m3u8
+#EXTINF:-1,|FR| FRANCE 2 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78491.m3u8
+#EXTINF:-1,|FR|SD| FRANCE 2
+http://bazarhd.online:80/live/307210113513/307210113513/79131.m3u8
+#EXTINF:-1,|FR| FRANCE 3 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78490.m3u8
+#EXTINF:-1,|FR|SD| FRANCE 3
+http://bazarhd.online:80/live/307210113513/307210113513/79130.m3u8
+#EXTINF:-1,|FR| FRANCE 4 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78489.m3u8
+#EXTINF:-1,|FR|SD| FRANCE 4 
+http://bazarhd.online:80/live/307210113513/307210113513/79129.m3u8
+#EXTINF:-1,|FR| FRANCE 5 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78488.m3u8
+#EXTINF:-1,|FR|SD| FRANCE 5
+http://bazarhd.online:80/live/307210113513/307210113513/79128.m3u8
+#EXTINF:-1,|FR| FRANCE O HD
+http://bazarhd.online:80/live/307210113513/307210113513/78487.m3u8
+#EXTINF:-1,|FR|SD| FRANCE O 
+http://bazarhd.online:80/live/307210113513/307210113513/79127.m3u8
+#EXTINF:-1,|FR| FRANCE 3 NOA HD
+http://bazarhd.online:80/live/307210113513/307210113513/78486.m3u8
+#EXTINF:-1,|FR|SD| FRANCE 3 NOA
+http://bazarhd.online:80/live/307210113513/307210113513/79124.m3u8
+#EXTINF:-1,|FR| 6TER HD
+http://bazarhd.online:80/live/307210113513/307210113513/78485.m3u8
+#EXTINF:-1,|FR|SD| 6TER 
+http://bazarhd.online:80/live/307210113513/307210113513/79126.m3u8
+#EXTINF:-1,|FR| M6 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78484.m3u8
+#EXTINF:-1,|FR|SD| M6 
+http://bazarhd.online:80/live/307210113513/307210113513/79125.m3u8
+#EXTINF:-1,|FR| TF1 SERIES FILMS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78483.m3u8
+#EXTINF:-1,|FR|SD| TF1 SERIES-FILMS 
+http://bazarhd.online:80/live/307210113513/307210113513/79123.m3u8
+#EXTINF:-1,|FR| TFX HD
+http://bazarhd.online:80/live/307210113513/307210113513/78482.m3u8
+#EXTINF:-1,|FR|SD| TFX 
+http://bazarhd.online:80/live/307210113513/307210113513/79122.m3u8
+#EXTINF:-1,|FR| RTL 9 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78481.m3u8
+#EXTINF:-1,|FR|SD| RTL 9 
+http://bazarhd.online:80/live/307210113513/307210113513/79121.m3u8
+#EXTINF:-1,|FR| TEVA HD
+http://bazarhd.online:80/live/307210113513/307210113513/78480.m3u8
+#EXTINF:-1,|FR|SD| TEVA 
+http://bazarhd.online:80/live/307210113513/307210113513/79120.m3u8
+#EXTINF:-1,|FR| TMC HD
+http://bazarhd.online:80/live/307210113513/307210113513/78479.m3u8
+#EXTINF:-1,|FR|SD| TMC 
+http://bazarhd.online:80/live/307210113513/307210113513/79119.m3u8
+#EXTINF:-1,|FR| W9 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78478.m3u8
+#EXTINF:-1,|FR|SD| W9 
+http://bazarhd.online:80/live/307210113513/307210113513/79118.m3u8
+#EXTINF:-1,|FR| C8 HD
+http://bazarhd.online:80/live/307210113513/307210113513/86842.m3u8
+#EXTINF:-1,|FR| ARTE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78477.m3u8
+#EXTINF:-1,|FR|SD| ARTE 
+http://bazarhd.online:80/live/307210113513/307210113513/79117.m3u8
+#EXTINF:-1,|FR|SD| NAUTICAL 
+http://bazarhd.online:80/live/307210113513/307210113513/79116.m3u8
+#EXTINF:-1,|FR| NON STOP PEOPLE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78475.m3u8
+#EXTINF:-1,|FR|SD| NON STOP PEOPLE
+http://bazarhd.online:80/live/307210113513/307210113513/79115.m3u8
+#EXTINF:-1,|FR| NOVELAS TV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78474.m3u8
+#EXTINF:-1,|FR|SD| NOVELAS TV 
+http://bazarhd.online:80/live/307210113513/307210113513/79114.m3u8
+#EXTINF:-1,|FR| ONE TV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78473.m3u8
+#EXTINF:-1,|FR|SD| ONE TV 
+http://bazarhd.online:80/live/307210113513/307210113513/79113.m3u8
+#EXTINF:-1,|FR| ROUGE TV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78472.m3u8
+#EXTINF:-1,|FR|SD| ROUGE TV 
+http://bazarhd.online:80/live/307210113513/307210113513/79112.m3u8
+#EXTINF:-1,|FR| RTS UN HD
+http://bazarhd.online:80/live/307210113513/307210113513/78471.m3u8
+#EXTINF:-1,|FR|SD| RTS UN 
+http://bazarhd.online:80/live/307210113513/307210113513/79111.m3u8
+#EXTINF:-1,|FR| RTS DEUX HD
+http://bazarhd.online:80/live/307210113513/307210113513/78470.m3u8
+#EXTINF:-1,|FR|SD| RTS DEUX 
+http://bazarhd.online:80/live/307210113513/307210113513/79110.m3u8
+#EXTINF:-1,|FR| CSTAR HD
+http://bazarhd.online:80/live/307210113513/307210113513/78469.m3u8
+#EXTINF:-1,|FR|SD| CSTAR 
+http://bazarhd.online:80/live/307210113513/307210113513/79109.m3u8
+#EXTINF:-1,|FR| LA CHAINE METEO HD
+http://bazarhd.online:80/live/307210113513/307210113513/78468.m3u8
+#EXTINF:-1,|FR|SD| LA CHAINE METEO 
+http://bazarhd.online:80/live/307210113513/307210113513/79108.m3u8
+#EXTINF:-1,|FR| MEZZO FR
+http://bazarhd.online:80/live/307210113513/307210113513/78467.m3u8
+#EXTINF:-1,|FR|SD| MEZZO FR
+http://bazarhd.online:80/live/307210113513/307210113513/79107.m3u8
+#EXTINF:-1,|FR| MUSEUM HD
+http://bazarhd.online:80/live/307210113513/307210113513/78466.m3u8
+#EXTINF:-1,|FR|SD| MUSEUM 
+http://bazarhd.online:80/live/307210113513/307210113513/79106.m3u8
+#EXTINF:-1,|FR| COMEDIE  HD
+http://bazarhd.online:80/live/307210113513/307210113513/78465.m3u8
+#EXTINF:-1,|FR|SD| COMEDIE  
+http://bazarhd.online:80/live/307210113513/307210113513/79105.m3u8
+#EXTINF:-1,|FR| COMEDY CENTRAL HD
+http://bazarhd.online:80/live/307210113513/307210113513/78464.m3u8
+#EXTINF:-1,|FR|SD| COMEDY CENTRAL HD
+http://bazarhd.online:80/live/307210113513/307210113513/79104.m3u8
+#EXTINF:-1,|FR| VIAGRANDPARIS
+http://bazarhd.online:80/live/307210113513/307210113513/78463.m3u8
+#EXTINF:-1,|FR|SD| VIAGRANDPARIS
+http://bazarhd.online:80/live/307210113513/307210113513/79103.m3u8
+#EXTINF:-1,|FR| CANAL 31
+http://bazarhd.online:80/live/307210113513/307210113513/78462.m3u8
+#EXTINF:-1,|FR|SD| CANAL 31
+http://bazarhd.online:80/live/307210113513/307210113513/79102.m3u8
+#EXTINF:-1,|FR| CANAL 8 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78461.m3u8
+#EXTINF:-1,|FR|SD| CANAL 8 
+http://bazarhd.online:80/live/307210113513/307210113513/79101.m3u8
+#EXTINF:-1,|FR| CLIQUE TV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78460.m3u8
+#EXTINF:-1,|FR|SD| CLIQUE TV 
+http://bazarhd.online:80/live/307210113513/307210113513/79100.m3u8
+#EXTINF:-1,|FR| EQUIPE 21 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78459.m3u8
+#EXTINF:-1,|FR|SD| EQUIPE 21 
+http://bazarhd.online:80/live/307210113513/307210113513/79099.m3u8
+#EXTINF:-1,|FR| IDF 1
+http://bazarhd.online:80/live/307210113513/307210113513/78458.m3u8
+#EXTINF:-1,|FR|SD| IDF 1
+http://bazarhd.online:80/live/307210113513/307210113513/79098.m3u8
+#EXTINF:-1,|FR| OLYMPIA HD
+http://bazarhd.online:80/live/307210113513/307210113513/78457.m3u8
+#EXTINF:-1,|FR|SD| OLYMPIA 
+http://bazarhd.online:80/live/307210113513/307210113513/79097.m3u8
+#EXTINF:-1,|FR| LEMAN BLEU HD
+http://bazarhd.online:80/live/307210113513/307210113513/78454.m3u8
+#EXTINF:-1,|FR|SD| LEMAN BLEU 
+http://bazarhd.online:80/live/307210113513/307210113513/79096.m3u8
+#EXTINF:-1,|FR| KTO
+http://bazarhd.online:80/live/307210113513/307210113513/78456.m3u8
+#EXTINF:-1,|FR|SD| KTO
+http://bazarhd.online:80/live/307210113513/307210113513/79095.m3u8
+#EXTINF:-1,|FR| BOOSTER TV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78455.m3u8
+#EXTINF:-1,|FR|SD| BOOSTER TV 
+http://bazarhd.online:80/live/307210113513/307210113513/79094.m3u8
+#EXTINF:-1,|FR| CANAL 9 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78453.m3u8
+#EXTINF:-1,|FR|SD| CANAL 9 
+http://bazarhd.online:80/live/307210113513/307210113513/79093.m3u8
+#EXTINF:-1,|FR| THE SWIZZ HD
+http://bazarhd.online:80/live/307210113513/307210113513/78452.m3u8
+#EXTINF:-1,|FR|SD| THE SWIZZ
+http://bazarhd.online:80/live/307210113513/307210113513/79092.m3u8
+#EXTINF:-1,|FR| OLTV
+http://bazarhd.online:80/live/307210113513/307210113513/78451.m3u8
+#EXTINF:-1,|FR|SD| OLTV
+http://bazarhd.online:80/live/307210113513/307210113513/79091.m3u8
+#EXTINF:-1,------------ |FR| CANAL+ HD ----------
+http://bazarhd.online:80/live/307210113513/307210113513/78450.m3u8
+#EXTINF:-1,|FR| CANAL+ HD
+http://bazarhd.online:80/live/307210113513/307210113513/78449.m3u8
+#EXTINF:-1,|FR|SD| CANAL+ 
+http://bazarhd.online:80/live/307210113513/307210113513/79089.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT HD
+http://bazarhd.online:80/live/307210113513/307210113513/78448.m3u8
+#EXTINF:-1,|FR| CANAL+ SERIE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78447.m3u8
+#EXTINF:-1,|FR|SD| CANAL+ SPORT
+http://bazarhd.online:80/live/307210113513/307210113513/79088.m3u8
+#EXTINF:-1,|FR|SD| CANAL+ SERIES 
+http://bazarhd.online:80/live/307210113513/307210113513/79087.m3u8
+#EXTINF:-1,|FR| CANAL+ FAMILY HD
+http://bazarhd.online:80/live/307210113513/307210113513/78446.m3u8
+#EXTINF:-1,|FR|SD| CANAL+ FAMILY 
+http://bazarhd.online:80/live/307210113513/307210113513/79086.m3u8
+#EXTINF:-1,|FR| CANAL+ DECALE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78445.m3u8
+#EXTINF:-1,|FR|SD| CANAL+ DECALE
+http://bazarhd.online:80/live/307210113513/307210113513/79085.m3u8
+#EXTINF:-1,|FR| CANAL+ CINEMA HD
+http://bazarhd.online:80/live/307210113513/307210113513/78444.m3u8
+#EXTINF:-1,|FR|SD| CANAL+ CINEMA 
+http://bazarhd.online:80/live/307210113513/307210113513/79084.m3u8
+#EXTINF:-1,-------------- |FR| CINEMA HD ------------
+http://bazarhd.online:80/live/307210113513/307210113513/78443.m3u8
+#EXTINF:-1,|FR|SD| ACTION 
+http://bazarhd.online:80/live/307210113513/307210113513/79082.m3u8
+#EXTINF:-1,|FR| ACTION HD
+http://bazarhd.online:80/live/307210113513/307210113513/78442.m3u8
+#EXTINF:-1,|FR|SD| OCS MAX 
+http://bazarhd.online:80/live/307210113513/307210113513/79081.m3u8
+#EXTINF:-1,|FR| OCS MAX HD
+http://bazarhd.online:80/live/307210113513/307210113513/78441.m3u8
+#EXTINF:-1,|FR|SD| OCS CITY 
+http://bazarhd.online:80/live/307210113513/307210113513/79080.m3u8
+#EXTINF:-1,|FR| OCS CITY HD
+http://bazarhd.online:80/live/307210113513/307210113513/78440.m3u8
+#EXTINF:-1,|FR|SD| OCS GEANTS 
+http://bazarhd.online:80/live/307210113513/307210113513/79079.m3u8
+#EXTINF:-1,|FR| OCS GEANTS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78439.m3u8
+#EXTINF:-1,|FR|SD| OCS CHOC 
+http://bazarhd.online:80/live/307210113513/307210113513/79078.m3u8
+#EXTINF:-1,|FR| OCS CHOC HD
+http://bazarhd.online:80/live/307210113513/307210113513/78438.m3u8
+#EXTINF:-1,|FR|SD| CINE+ PREMIER 
+http://bazarhd.online:80/live/307210113513/307210113513/79077.m3u8
+#EXTINF:-1,|FR| CINE+ PREMIERE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78436.m3u8
+#EXTINF:-1,|FR|SD| CINE+ FRISSON 
+http://bazarhd.online:80/live/307210113513/307210113513/79076.m3u8
+#EXTINF:-1,|FR| CINE+ FRISSON HD
+http://bazarhd.online:80/live/307210113513/307210113513/78435.m3u8
+#EXTINF:-1,|FR|SD| CINE+ EMOTION 
+http://bazarhd.online:80/live/307210113513/307210113513/79075.m3u8
+#EXTINF:-1,|FR| CINE+ EMOTION HD
+http://bazarhd.online:80/live/307210113513/307210113513/78434.m3u8
+#EXTINF:-1,|FR|SD| CINE+ FAMIZ 
+http://bazarhd.online:80/live/307210113513/307210113513/79074.m3u8
+#EXTINF:-1,|FR| CINE+ FAMIZ HD
+http://bazarhd.online:80/live/307210113513/307210113513/78433.m3u8
+#EXTINF:-1,|FR|SD| CINE+ CLUB 
+http://bazarhd.online:80/live/307210113513/307210113513/79073.m3u8
+#EXTINF:-1,|FR| CINE+ CLUB HD
+http://bazarhd.online:80/live/307210113513/307210113513/78432.m3u8
+#EXTINF:-1,|FR|SD| CINE+  CLASSIC 
+http://bazarhd.online:80/live/307210113513/307210113513/79072.m3u8
+#EXTINF:-1,|FR| CINE+ CLASSIC HD
+http://bazarhd.online:80/live/307210113513/307210113513/78431.m3u8
+#EXTINF:-1,|FR|SD| PARAMOUNT DECALE 
+http://bazarhd.online:80/live/307210113513/307210113513/79071.m3u8
+#EXTINF:-1,|FR| PARAMOUNT DECALE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78430.m3u8
+#EXTINF:-1,|FR|SD| PARAMOUNT CHANNEL 
+http://bazarhd.online:80/live/307210113513/307210113513/79070.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
+http://bazarhd.online:80/live/307210113513/307210113513/78429.m3u8
+#EXTINF:-1,------------- |FR| PPV HD -------------
+http://bazarhd.online:80/live/307210113513/307210113513/78300.m3u8
+#EXTINF:-1,|FR| CANALPLAY 1 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78299.m3u8
+#EXTINF:-1,|FR| CANALPLAY 2 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78298.m3u8
+#EXTINF:-1,|FR| CANALPLAY 3 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78297.m3u8
+#EXTINF:-1,|FR| CANALPLAY 4 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78296.m3u8
+#EXTINF:-1,|FR| CANALPLAY 5 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78295.m3u8
+#EXTINF:-1,|FR| ORANGE CINEMA 1 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78294.m3u8
+#EXTINF:-1,|FR| ORANGE CINEMA 2 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78293.m3u8
+#EXTINF:-1,|FR| ORANGE CINEMA 3 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78292.m3u8
+#EXTINF:-1,|FR| ORANGE CINEMA 4 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78291.m3u8
+#EXTINF:-1,|FR| ORANGE CINEMA 5 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78290.m3u8
+#EXTINF:-1,|FR| ORANGE CINEMA AVENTURE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78289.m3u8
+#EXTINF:-1,|FR| ORANGE CINEMA HD
+http://bazarhd.online:80/live/307210113513/307210113513/78288.m3u8
+#EXTINF:-1,|FR| A LA CARTE 1 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78287.m3u8
+#EXTINF:-1,|FR| A LA CARTE 3 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78286.m3u8
+#EXTINF:-1,|FR| A LA CARTE 4 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78285.m3u8
+#EXTINF:-1,|FR| A LA CARTE 5 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78284.m3u8
+#EXTINF:-1,----------------- |FR| DIVERTISSEMENT HD ---------------
+http://bazarhd.online:80/live/307210113513/307210113513/78428.m3u8
+#EXTINF:-1,|FR| POLAR+ HD
+http://bazarhd.online:80/live/307210113513/307210113513/78427.m3u8
+#EXTINF:-1,|FR|SD| POLAR+ HD
+http://bazarhd.online:80/live/307210113513/307210113513/79068.m3u8
+#EXTINF:-1,|FR| SYFY HD
+http://bazarhd.online:80/live/307210113513/307210113513/78426.m3u8
+#EXTINF:-1,|FR|SD| SYFY HD
+http://bazarhd.online:80/live/307210113513/307210113513/79067.m3u8
+#EXTINF:-1,|FR| SERIE CLUB HD
+http://bazarhd.online:80/live/307210113513/307210113513/78425.m3u8
+#EXTINF:-1,|FR|SD| SERIE CLUB HD
+http://bazarhd.online:80/live/307210113513/307210113513/79066.m3u8
+#EXTINF:-1,|FR| 13 EME RUE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78424.m3u8
+#EXTINF:-1,|FR|SD| 13EME RUE HD
+http://bazarhd.online:80/live/307210113513/307210113513/79065.m3u8
+#EXTINF:-1,|FR|  ALTICE STUDIO HD
+http://bazarhd.online:80/live/307210113513/307210113513/78423.m3u8
+#EXTINF:-1,|FR|SD| ALTICE STUDIO HD
+http://bazarhd.online:80/live/307210113513/307210113513/79064.m3u8
+#EXTINF:-1,|FR| WARNER HD
+http://bazarhd.online:80/live/307210113513/307210113513/78422.m3u8
+#EXTINF:-1,|FR|SD| WARNER TV HD
+http://bazarhd.online:80/live/307210113513/307210113513/79063.m3u8
+#EXTINF:-1,|FR| TV BREIZH HD
+http://bazarhd.online:80/live/307210113513/307210113513/78421.m3u8
+#EXTINF:-1,|FR|SD| TV BREIZH HD
+http://bazarhd.online:80/live/307210113513/307210113513/79062.m3u8
+#EXTINF:-1,|FR| NRJ 12 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78420.m3u8
+#EXTINF:-1,|FR|SD| NRJ 12 HD
+http://bazarhd.online:80/live/307210113513/307210113513/79061.m3u8
+#EXTINF:-1,|FR| RMC STORY HD
+http://bazarhd.online:80/live/307210113513/307210113513/78419.m3u8
+#EXTINF:-1,|FR|SD| RMC STORY HD
+http://bazarhd.online:80/live/307210113513/307210113513/79060.m3u8
+#EXTINF:-1,|FR| CHERIE 25 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78418.m3u8
+#EXTINF:-1,|FR|SD| CHERIE 25 HD
+http://bazarhd.online:80/live/307210113513/307210113513/79059.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78417.m3u8
+#EXTINF:-1,|FR|SD| PARIS PREMIERE HD
+http://bazarhd.online:80/live/307210113513/307210113513/79058.m3u8
+#EXTINF:-1,|FR| VICELAND HD
+http://bazarhd.online:80/live/307210113513/307210113513/78416.m3u8
+#EXTINF:-1,|FR|SD| VICELAND HD
+http://bazarhd.online:80/live/307210113513/307210113513/79057.m3u8
+#EXTINF:-1,|FR| E! ENTERTAINMENT HD
+http://bazarhd.online:80/live/307210113513/307210113513/78415.m3u8
+#EXTINF:-1,|FR|SD| E! ENTERTAINMENT HD
+http://bazarhd.online:80/live/307210113513/307210113513/79056.m3u8
+#EXTINF:-1,|FR| MY CUISINE
+http://bazarhd.online:80/live/307210113513/307210113513/78414.m3u8
+#EXTINF:-1,|FR|SD| MY CUISINE HD
+http://bazarhd.online:80/live/307210113513/307210113513/79055.m3u8
+#EXTINF:-1,|FR|SD| J ONE HD
+http://bazarhd.online:80/live/307210113513/307210113513/79054.m3u8
+#EXTINF:-1,|FR| J ONE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78413.m3u8
+#EXTINF:-1,|FR| GAME ONE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78412.m3u8
+#EXTINF:-1,|FR|SD| GAME ONE HD
+http://bazarhd.online:80/live/307210113513/307210113513/79053.m3u8
+#EXTINF:-1,|FR| MANGAS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78411.m3u8
+#EXTINF:-1,|FR|SD| MANGAS HD
+http://bazarhd.online:80/live/307210113513/307210113513/79052.m3u8
+#EXTINF:-1,|FR| AB 1 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78410.m3u8
+#EXTINF:-1,|FR|SD| AB1 HD
+http://bazarhd.online:80/live/307210113513/307210113513/79051.m3u8
+#EXTINF:-1,|FR| AB 3 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78409.m3u8
+#EXTINF:-1,|FR|SD| AB3 HD
+http://bazarhd.online:80/live/307210113513/307210113513/79050.m3u8
+#EXTINF:-1,|FR| BET HD
+http://bazarhd.online:80/live/307210113513/307210113513/78408.m3u8
+#EXTINF:-1,|FR|SD| BET HD
+http://bazarhd.online:80/live/307210113513/307210113513/79049.m3u8
+#EXTINF:-1,|FR| TV5 MONDE
+http://bazarhd.online:80/live/307210113513/307210113513/78407.m3u8
+#EXTINF:-1,|FR|SD| TV5 MONDE HD
+http://bazarhd.online:80/live/307210113513/307210113513/79048.m3u8
+#EXTINF:-1,|FR| TELECLUB ZOOM
+http://bazarhd.online:80/live/307210113513/307210113513/78406.m3u8
+#EXTINF:-1,|FR|SD| TELECLUB ZOOM HD
+http://bazarhd.online:80/live/307210113513/307210113513/79047.m3u8
+#EXTINF:-1,|FR| A+ HD
+http://bazarhd.online:80/live/307210113513/307210113513/78405.m3u8
+#EXTINF:-1,|FR| NOLLYWOOD TV
+http://bazarhd.online:80/live/307210113513/307210113513/78404.m3u8
+#EXTINF:-1,-------------- |FR| SPORT HD --------------
+http://bazarhd.online:80/live/307210113513/307210113513/78403.m3u8
+#EXTINF:-1, CANAL+ LIGUE 1 HD
+http://bazarhd.online:80/live/307210113513/307210113513/163114.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78393.m3u8
+#EXTINF:-1,|FR|SD| BEIN SPORT 1 
+http://bazarhd.online:80/live/307210113513/307210113513/79044.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78392.m3u8
+#EXTINF:-1,|FR|SD| BEIN SPORT 2 
+http://bazarhd.online:80/live/307210113513/307210113513/79043.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78391.m3u8
+#EXTINF:-1,|FR|SD| BEIN SPORT 3 
+http://bazarhd.online:80/live/307210113513/307210113513/79042.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 4 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78390.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 5 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78389.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 6 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78388.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 7 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78387.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 8 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78386.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 9 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78385.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 10 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78384.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78383.m3u8
+#EXTINF:-1,|FR|SD| EUROSPORT 1 
+http://bazarhd.online:80/live/307210113513/307210113513/79041.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78382.m3u8
+#EXTINF:-1,|FR|SD| EUROSPORT 2 
+http://bazarhd.online:80/live/307210113513/307210113513/79040.m3u8
+#EXTINF:-1,|FR| RMC SPORT NEWS
+http://bazarhd.online:80/live/307210113513/307210113513/78381.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT NEWS 
+http://bazarhd.online:80/live/307210113513/307210113513/79039.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78380.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT 1 
+http://bazarhd.online:80/live/307210113513/307210113513/79038.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78379.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT 2 
+http://bazarhd.online:80/live/307210113513/307210113513/79037.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78378.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT 3 
+http://bazarhd.online:80/live/307210113513/307210113513/79036.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78377.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT 4 
+http://bazarhd.online:80/live/307210113513/307210113513/79035.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78376.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 5 
+http://bazarhd.online:80/live/307210113513/307210113513/79034.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78375.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 6
+http://bazarhd.online:80/live/307210113513/307210113513/79033.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78374.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 7 
+http://bazarhd.online:80/live/307210113513/307210113513/79032.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78373.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 8 
+http://bazarhd.online:80/live/307210113513/307210113513/79031.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78372.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 9
+http://bazarhd.online:80/live/307210113513/307210113513/79030.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78371.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 10
+http://bazarhd.online:80/live/307210113513/307210113513/79029.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78370.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 11 
+http://bazarhd.online:80/live/307210113513/307210113513/79028.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78369.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 12 
+http://bazarhd.online:80/live/307210113513/307210113513/79027.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78368.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 13 
+http://bazarhd.online:80/live/307210113513/307210113513/79026.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78367.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 14 
+http://bazarhd.online:80/live/307210113513/307210113513/79025.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78366.m3u8
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 15
+http://bazarhd.online:80/live/307210113513/307210113513/79024.m3u8
+#EXTINF:-1,|FR| MULTI SPORTS 1
+http://bazarhd.online:80/live/307210113513/307210113513/78365.m3u8
+#EXTINF:-1,|FR|SD| MULTI SPORTS 1
+http://bazarhd.online:80/live/307210113513/307210113513/79023.m3u8
+#EXTINF:-1,|FR| MULTI SPORTS 2
+http://bazarhd.online:80/live/307210113513/307210113513/78364.m3u8
+#EXTINF:-1,|FR|SD| MULTI SPORTS 2
+http://bazarhd.online:80/live/307210113513/307210113513/79022.m3u8
+#EXTINF:-1,|FR| MULTI SPORTS 3
+http://bazarhd.online:80/live/307210113513/307210113513/78363.m3u8
+#EXTINF:-1,|FR|SD| MULTIS PORTS 3
+http://bazarhd.online:80/live/307210113513/307210113513/79021.m3u8
+#EXTINF:-1,|FR| MULTI SPORTS 4
+http://bazarhd.online:80/live/307210113513/307210113513/78362.m3u8
+#EXTINF:-1,|FR|SD| MULTI SPORTS 4
+http://bazarhd.online:80/live/307210113513/307210113513/79020.m3u8
+#EXTINF:-1,|FR| MULTI SPORTS 5
+http://bazarhd.online:80/live/307210113513/307210113513/78361.m3u8
+#EXTINF:-1,|FR|SD| MULTISPORTS 5
+http://bazarhd.online:80/live/307210113513/307210113513/79019.m3u8
+#EXTINF:-1,|FR| MULTI SPORTS 6
+http://bazarhd.online:80/live/307210113513/307210113513/78360.m3u8
+#EXTINF:-1,|FR|SD| MULTISPORTS 6
+http://bazarhd.online:80/live/307210113513/307210113513/79018.m3u8
+#EXTINF:-1,|FR| FOOT+ 24 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78359.m3u8
+#EXTINF:-1,|FR|SD| FOOT+ 24 
+http://bazarhd.online:80/live/307210113513/307210113513/79016.m3u8
+#EXTINF:-1,|FR| INFOSPORT+ HD
+http://bazarhd.online:80/live/307210113513/307210113513/78358.m3u8
+#EXTINF:-1,|FR|SD| INFO SPORT  
+http://bazarhd.online:80/live/307210113513/307210113513/79015.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78357.m3u8
+#EXTINF:-1,|FR|SD| EQUIDIA LIVE 
+http://bazarhd.online:80/live/307210113513/307210113513/79014.m3u8
+#EXTINF:-1,|FR| GOLF+ HD
+http://bazarhd.online:80/live/307210113513/307210113513/78356.m3u8
+#EXTINF:-1,|FR|SD| GOLF+ 
+http://bazarhd.online:80/live/307210113513/307210113513/79013.m3u8
+#EXTINF:-1,|FR| MOTORSPORT TV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78355.m3u8
+#EXTINF:-1,|FR|SD| MOTORSPORT TV 
+http://bazarhd.online:80/live/307210113513/307210113513/79012.m3u8
+#EXTINF:-1,|FR| AUTO MOTO HD
+http://bazarhd.online:80/live/307210113513/307210113513/78354.m3u8
+#EXTINF:-1,|FR|SD| AUTO MOTO
+http://bazarhd.online:80/live/307210113513/307210113513/79011.m3u8
+#EXTINF:-1,|FR|SD| GAME ONE  +1
+http://bazarhd.online:80/live/307210113513/307210113513/79010.m3u8
+#EXTINF:-1,--------------- |FR| DECOUVERTE HD ---------------
+http://bazarhd.online:80/live/307210113513/307210113513/78352.m3u8
+#EXTINF:-1,|FR| TOUTE L HISTOIR
+http://bazarhd.online:80/live/307210113513/307210113513/78351.m3u8
+#EXTINF:-1,|FR|SD| TOUTE L'HISTOIRE HD
+http://bazarhd.online:80/live/307210113513/307210113513/79008.m3u8
+#EXTINF:-1,|FR| PLANETE+ HD
+http://bazarhd.online:80/live/307210113513/307210113513/78350.m3u8
+#EXTINF:-1,|FR|SD| PLANETE+ HD
+http://bazarhd.online:80/live/307210113513/307210113513/79007.m3u8
+#EXTINF:-1,|FR| PLANET A&E HD
+http://bazarhd.online:80/live/307210113513/307210113513/78349.m3u8
+#EXTINF:-1,|FR|SD| PLANETE  A&E HD
+http://bazarhd.online:80/live/307210113513/307210113513/79006.m3u8
+#EXTINF:-1,|FR| PLANETE+ CI HD
+http://bazarhd.online:80/live/307210113513/307210113513/78348.m3u8
+#EXTINF:-1,|FR|SD| PLANETE+ CI HD
+http://bazarhd.online:80/live/307210113513/307210113513/79005.m3u8
+#EXTINF:-1,|FR| DISCOVERY HD
+http://bazarhd.online:80/live/307210113513/307210113513/78347.m3u8
+#EXTINF:-1,|FR|SD| DISCOVERY HD
+http://bazarhd.online:80/live/307210113513/307210113513/79004.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78346.m3u8
+#EXTINF:-1,|FR|SD| DISCOVERY SCIENCE HD
+http://bazarhd.online:80/live/307210113513/307210113513/79003.m3u8
+#EXTINF:-1,|FR| DISCOVERY FAMILY HD
+http://bazarhd.online:80/live/307210113513/307210113513/78345.m3u8
+#EXTINF:-1,|FR|SD| DISCOVERY FAMILY HD
+http://bazarhd.online:80/live/307210113513/307210113513/79002.m3u8
+#EXTINF:-1,|FR| DISCOVERY ID HD
+http://bazarhd.online:80/live/307210113513/307210113513/78344.m3u8
+#EXTINF:-1,|FR|SD| DISCOVERY ID HD
+http://bazarhd.online:80/live/307210113513/307210113513/79001.m3u8
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
+http://bazarhd.online:80/live/307210113513/307210113513/78343.m3u8
+#EXTINF:-1,|FR|SD| DISCOVERY INVESTIGATION HD
+http://bazarhd.online:80/live/307210113513/307210113513/79000.m3u8
+#EXTINF:-1,|FR| NGC HD
+http://bazarhd.online:80/live/307210113513/307210113513/78342.m3u8
+#EXTINF:-1,|FR|SD| NGC HD
+http://bazarhd.online:80/live/307210113513/307210113513/78999.m3u8
+#EXTINF:-1,|FR| NGC WILD HD
+http://bazarhd.online:80/live/307210113513/307210113513/78341.m3u8
+#EXTINF:-1,|FR|SD| NGC WILD HD
+http://bazarhd.online:80/live/307210113513/307210113513/78998.m3u8
+#EXTINF:-1,|FR| USHUAIA HD
+http://bazarhd.online:80/live/307210113513/307210113513/78339.m3u8
+#EXTINF:-1,|FR|SD| USHUAIA HD
+http://bazarhd.online:80/live/307210113513/307210113513/78996.m3u8
+#EXTINF:-1,|FR| HISTOIRE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78338.m3u8
+#EXTINF:-1,|FR|SD| HISTOIRE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78995.m3u8
+#EXTINF:-1,|FR| ANIMAUX HD
+http://bazarhd.online:80/live/307210113513/307210113513/78337.m3u8
+#EXTINF:-1,|FR|SD| ANIMAUX HD
+http://bazarhd.online:80/live/307210113513/307210113513/78994.m3u8
+#EXTINF:-1,|FR| TREK HD
+http://bazarhd.online:80/live/307210113513/307210113513/78336.m3u8
+#EXTINF:-1,|FR|SD| TREK HD
+http://bazarhd.online:80/live/307210113513/307210113513/78993.m3u8
+#EXTINF:-1,|FR| CHASSE ET PECHE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78335.m3u8
+#EXTINF:-1,|FR|SD| CHASSE&PECHE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78992.m3u8
+#EXTINF:-1,|FR| SCIENCE ET VIE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78334.m3u8
+#EXTINF:-1,|FR|SD| SCIENCE ET VIE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78991.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78333.m3u8
+#EXTINF:-1,|FR|SD| RMC DECOUVERTE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78990.m3u8
+#EXTINF:-1,|FR| SEASONS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78332.m3u8
+#EXTINF:-1,|FR|SD| SEASONS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78989.m3u8
+#EXTINF:-1,|FR| GULLI HD
+http://bazarhd.online:80/live/307210113513/307210113513/78331.m3u8
+#EXTINF:-1,|FR|SD| GULLI HD
+http://bazarhd.online:80/live/307210113513/307210113513/78988.m3u8
+#EXTINF:-1,|FR| TCM CINEMA HD
+http://bazarhd.online:80/live/307210113513/307210113513/78330.m3u8
+#EXTINF:-1,|FR|SD| TCM CINEMA HD
+http://bazarhd.online:80/live/307210113513/307210113513/78987.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT HD
+http://bazarhd.online:80/live/307210113513/307210113513/78329.m3u8
+#EXTINF:-1,|FR|SD| CRIME DISTRICT HD
+http://bazarhd.online:80/live/307210113513/307210113513/78986.m3u8
+#EXTINF:-1,---------------- |FR| INFORMATION HD -----------------
+http://bazarhd.online:80/live/307210113513/307210113513/78328.m3u8
+#EXTINF:-1,|FR| CANAL NEWS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78325.m3u8
+#EXTINF:-1,|FR|SD| CANAL NEWS 
+http://bazarhd.online:80/live/307210113513/307210113513/78984.m3u8
+#EXTINF:-1,|FR| CNEWS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78327.m3u8
+#EXTINF:-1,|FR|SD| C NEWS 
+http://bazarhd.online:80/live/307210113513/307210113513/78983.m3u8
+#EXTINF:-1,|FR| LCI HD
+http://bazarhd.online:80/live/307210113513/307210113513/78324.m3u8
+#EXTINF:-1,|FR|SD| LCI 
+http://bazarhd.online:80/live/307210113513/307210113513/78982.m3u8
+#EXTINF:-1,|FR| FRANCE INFO HD
+http://bazarhd.online:80/live/307210113513/307210113513/78323.m3u8
+#EXTINF:-1,|FR|SD| FRANCE INFO 
+http://bazarhd.online:80/live/307210113513/307210113513/78981.m3u8
+#EXTINF:-1,|FR| FRANCE 24 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78321.m3u8
+#EXTINF:-1,|FR|SD| FRANCE 24 
+http://bazarhd.online:80/live/307210113513/307210113513/78980.m3u8
+#EXTINF:-1,|FR| EURONEWS (FRENCH)
+http://bazarhd.online:80/live/307210113513/307210113513/78322.m3u8
+#EXTINF:-1,|FR|SD| EURONEWS FRENCH 
+http://bazarhd.online:80/live/307210113513/307210113513/78979.m3u8
+#EXTINF:-1,|FR| LCP HD
+http://bazarhd.online:80/live/307210113513/307210113513/78320.m3u8
+#EXTINF:-1,|FR|SD| LCP 
+http://bazarhd.online:80/live/307210113513/307210113513/78978.m3u8
+#EXTINF:-1,|FR| BFM TV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78326.m3u8
+#EXTINF:-1,|FR| BFM BUSINESS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78319.m3u8
+#EXTINF:-1,|FR|SD| BFM BUSINESS
+http://bazarhd.online:80/live/307210113513/307210113513/78977.m3u8
+#EXTINF:-1,|FR| BFM PARIS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78318.m3u8
+#EXTINF:-1,|FR|SD| BFM PARIS
+http://bazarhd.online:80/live/307210113513/307210113513/78976.m3u8
+#EXTINF:-1,|FR| I 24 NEWS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78317.m3u8
+#EXTINF:-1,|FR|SD| I 24 NEWS
+http://bazarhd.online:80/live/307210113513/307210113513/78975.m3u8
+#EXTINF:-1,------------- |FR| MUSIQUE HD -----------
+http://bazarhd.online:80/live/307210113513/307210113513/78316.m3u8
+#EXTINF:-1,|FR| M6 MUSIC HD
+http://bazarhd.online:80/live/307210113513/307210113513/78315.m3u8
+#EXTINF:-1,|FR|SD| M6 MUSIC HD
+http://bazarhd.online:80/live/307210113513/307210113513/78973.m3u8
+#EXTINF:-1,|FR| TRACE URBAN HD
+http://bazarhd.online:80/live/307210113513/307210113513/78314.m3u8
+#EXTINF:-1,|FR|SD| TRACE URBAN HD
+http://bazarhd.online:80/live/307210113513/307210113513/78972.m3u8
+#EXTINF:-1,|FR| MEZZO LIVE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78313.m3u8
+#EXTINF:-1,|FR|SD| MEZZO LIVE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78971.m3u8
+#EXTINF:-1,|FR| MCM HD
+http://bazarhd.online:80/live/307210113513/307210113513/78312.m3u8
+#EXTINF:-1,|FR|SD| MCM HD
+http://bazarhd.online:80/live/307210113513/307210113513/78970.m3u8
+#EXTINF:-1,|FR| MCM TOP HD
+http://bazarhd.online:80/live/307210113513/307210113513/78311.m3u8
+#EXTINF:-1,|FR|SD| MCM TOP HD
+http://bazarhd.online:80/live/307210113513/307210113513/78969.m3u8
+#EXTINF:-1,|FR| MELODY TV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78310.m3u8
+#EXTINF:-1,|FR|SD| MELODY
+http://bazarhd.online:80/live/307210113513/307210113513/78968.m3u8
+#EXTINF:-1,|FR| LFM TV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78309.m3u8
+#EXTINF:-1,|FR|SD| LFM TV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78967.m3u8
+#EXTINF:-1,|FR| NRJ HITS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78308.m3u8
+#EXTINF:-1,|FR|SD| NRJ HITS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78966.m3u8
+#EXTINF:-1,|FR| RFM TV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78307.m3u8
+#EXTINF:-1,|FR|SD| RFM TV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78965.m3u8
+#EXTINF:-1,|FR| MTV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78306.m3u8
+#EXTINF:-1,|FR|SD| MTV HD
+http://bazarhd.online:80/live/307210113513/307210113513/78964.m3u8
+#EXTINF:-1,|FR| MTV LIVE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78305.m3u8
+#EXTINF:-1,|FR|SD| MTV LIVE HD
+http://bazarhd.online:80/live/307210113513/307210113513/78963.m3u8
+#EXTINF:-1,|FR| MTV HITS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78304.m3u8
+#EXTINF:-1,|FR|SD| MTV HITS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78962.m3u8
+#EXTINF:-1,|FR| TVM 3 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78303.m3u8
+#EXTINF:-1,|FR|SD| TVM3 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78961.m3u8
+#EXTINF:-1,|FR| C STAR HIT
+http://bazarhd.online:80/live/307210113513/307210113513/78302.m3u8
+#EXTINF:-1,|FR|SD| C STAR HIT
+http://bazarhd.online:80/live/307210113513/307210113513/78960.m3u8
+#EXTINF:-1,|FR| C STAR HITS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78301.m3u8
+#EXTINF:-1,|FR|SD| C STAR HITS HD
+http://bazarhd.online:80/live/307210113513/307210113513/78959.m3u8
+#EXTINF:-1,------------- |FR| FRANCE HEVC ---------------
+http://bazarhd.online:80/live/307210113513/307210113513/78815.m3u8
+#EXTINF:-1,|FR|HVEC| CORONA VIRUS INFO
+http://bazarhd.online:80/live/307210113513/307210113513/78814.m3u8
+#EXTINF:-1,|FR|HEVC| TF1
+http://bazarhd.online:80/live/307210113513/307210113513/78813.m3u8
+#EXTINF:-1,|FR|HEVC| FRANCE 2
+http://bazarhd.online:80/live/307210113513/307210113513/78812.m3u8
+#EXTINF:-1,|FR|HEVC| FRANCE 3
+http://bazarhd.online:80/live/307210113513/307210113513/78811.m3u8
+#EXTINF:-1,|FR|HEVC| FRANCE 4
+http://bazarhd.online:80/live/307210113513/307210113513/78810.m3u8
+#EXTINF:-1,|FR|HEVC| FRANCE 5
+http://bazarhd.online:80/live/307210113513/307210113513/78809.m3u8
+#EXTINF:-1,|FR|HEVC| FRANCE O
+http://bazarhd.online:80/live/307210113513/307210113513/78808.m3u8
+#EXTINF:-1,|FR|HEVC| 6TER
+http://bazarhd.online:80/live/307210113513/307210113513/78807.m3u8
+#EXTINF:-1,|FR|HEVC| M6
+http://bazarhd.online:80/live/307210113513/307210113513/78806.m3u8
+#EXTINF:-1,|FR|HEVC| FRANCE 3 NOA
+http://bazarhd.online:80/live/307210113513/307210113513/78805.m3u8
+#EXTINF:-1,|FR|HEVC| TF1 SERIES-FILMS
+http://bazarhd.online:80/live/307210113513/307210113513/78804.m3u8
+#EXTINF:-1,|FR|HEVC| TFX
+http://bazarhd.online:80/live/307210113513/307210113513/78803.m3u8
+#EXTINF:-1,|FR|HEVC| RTL 9
+http://bazarhd.online:80/live/307210113513/307210113513/78802.m3u8
+#EXTINF:-1,|FR|HEVC| TEVA
+http://bazarhd.online:80/live/307210113513/307210113513/78801.m3u8
+#EXTINF:-1,|FR|HEVC| TMC
+http://bazarhd.online:80/live/307210113513/307210113513/78800.m3u8
+#EXTINF:-1,|FR|HEVC| W9
+http://bazarhd.online:80/live/307210113513/307210113513/78799.m3u8
+#EXTINF:-1,|FR|HVEC| C8 FHD
+http://bazarhd.online:80/live/307210113513/307210113513/86843.m3u8
+#EXTINF:-1,|FR|HEVC| ARTE
+http://bazarhd.online:80/live/307210113513/307210113513/78798.m3u8
+#EXTINF:-1,|FR|HEVC| NAUTICAL
+http://bazarhd.online:80/live/307210113513/307210113513/78797.m3u8
+#EXTINF:-1,|FR|HEVC| NON STOP PEOPLE
+http://bazarhd.online:80/live/307210113513/307210113513/78796.m3u8
+#EXTINF:-1,|FR|HEVC| NOVELAS TV
+http://bazarhd.online:80/live/307210113513/307210113513/78795.m3u8
+#EXTINF:-1,|FR|HEVC| ONE TV
+http://bazarhd.online:80/live/307210113513/307210113513/78794.m3u8
+#EXTINF:-1,|FR|HEVC| ROUGE TV
+http://bazarhd.online:80/live/307210113513/307210113513/78793.m3u8
+#EXTINF:-1,|FR|HEVC| RTS UN
+http://bazarhd.online:80/live/307210113513/307210113513/78792.m3u8
+#EXTINF:-1,|FR|HEVC| RTS DEUX
+http://bazarhd.online:80/live/307210113513/307210113513/78791.m3u8
+#EXTINF:-1,|FR|HEVC| CSTAR
+http://bazarhd.online:80/live/307210113513/307210113513/78790.m3u8
+#EXTINF:-1,|FR|HEVC| LA CHAINE METEO
+http://bazarhd.online:80/live/307210113513/307210113513/78789.m3u8
+#EXTINF:-1,|FR|HEVC| MEZZO FR
+http://bazarhd.online:80/live/307210113513/307210113513/78788.m3u8
+#EXTINF:-1,|FR|HEVC| MUSEUM
+http://bazarhd.online:80/live/307210113513/307210113513/78787.m3u8
+#EXTINF:-1,|FR|HEVC| COMEDIE
+http://bazarhd.online:80/live/307210113513/307210113513/78786.m3u8
+#EXTINF:-1,|FR|HEVC| COMEDY CENTRAL
+http://bazarhd.online:80/live/307210113513/307210113513/78785.m3u8
+#EXTINF:-1,|FR|HEVC| VIAGRANDPARIS
+http://bazarhd.online:80/live/307210113513/307210113513/78784.m3u8
+#EXTINF:-1,|FR|HEVC| CANAL 31
+http://bazarhd.online:80/live/307210113513/307210113513/78783.m3u8
+#EXTINF:-1,|FR|HEVC| CANAL 8
+http://bazarhd.online:80/live/307210113513/307210113513/78782.m3u8
+#EXTINF:-1,|FR|HEVC| CLIQUE TV
+http://bazarhd.online:80/live/307210113513/307210113513/78781.m3u8
+#EXTINF:-1,|FR|HEVC| EQUIPE 21
+http://bazarhd.online:80/live/307210113513/307210113513/78780.m3u8
+#EXTINF:-1,|FR|HEVC| IDF 1
+http://bazarhd.online:80/live/307210113513/307210113513/78779.m3u8
+#EXTINF:-1,|FR|HEVC| OLYMPIA
+http://bazarhd.online:80/live/307210113513/307210113513/78778.m3u8
+#EXTINF:-1,|FR|HEVC| THE SWIZZ
+http://bazarhd.online:80/live/307210113513/307210113513/78777.m3u8
+#EXTINF:-1,|FR|HEVC| CANAL 9
+http://bazarhd.online:80/live/307210113513/307210113513/78776.m3u8
+#EXTINF:-1,|FR|HEVC| LEMAN BLEU
+http://bazarhd.online:80/live/307210113513/307210113513/78775.m3u8
+#EXTINF:-1,|FR|HEVC| BOOSTER TV
+http://bazarhd.online:80/live/307210113513/307210113513/78774.m3u8
+#EXTINF:-1,|FR|HEVC| KTO
+http://bazarhd.online:80/live/307210113513/307210113513/78773.m3u8
+#EXTINF:-1,|FR|HEVC| OLTV
+http://bazarhd.online:80/live/307210113513/307210113513/78772.m3u8
+#EXTINF:-1,------------- |FR| CANAL+  HEVC -----------
+http://bazarhd.online:80/live/307210113513/307210113513/78771.m3u8
+#EXTINF:-1,|FR|HEVC| CANAL+
+http://bazarhd.online:80/live/307210113513/307210113513/78770.m3u8
+#EXTINF:-1,|FR|HEVC| CANAL+ SPORT
+http://bazarhd.online:80/live/307210113513/307210113513/78769.m3u8
+#EXTINF:-1,|FR|HEVC| CANAL+ SERIES
+http://bazarhd.online:80/live/307210113513/307210113513/78768.m3u8
+#EXTINF:-1,|FR|HEVC| CANAL+ FAMILY
+http://bazarhd.online:80/live/307210113513/307210113513/78767.m3u8
+#EXTINF:-1,|FR|HEVC| CANAL+ DECALE
+http://bazarhd.online:80/live/307210113513/307210113513/78766.m3u8
+#EXTINF:-1,|FR|HEVC| CANAL+ CINEMA
+http://bazarhd.online:80/live/307210113513/307210113513/78765.m3u8
+#EXTINF:-1,------------ |FR| CINEMA  HEVC -------------
+http://bazarhd.online:80/live/307210113513/307210113513/78764.m3u8
+#EXTINF:-1,|FR|HEVC| ACTION
+http://bazarhd.online:80/live/307210113513/307210113513/78763.m3u8
+#EXTINF:-1,|FR|HEVC| OCS MAX
+http://bazarhd.online:80/live/307210113513/307210113513/78762.m3u8
+#EXTINF:-1,|FR|HEVC| OCS CITY
+http://bazarhd.online:80/live/307210113513/307210113513/78761.m3u8
+#EXTINF:-1,|FR|HEVC| OCS GEANTS
+http://bazarhd.online:80/live/307210113513/307210113513/78760.m3u8
+#EXTINF:-1,|FR|HEVC| OCS CHOC
+http://bazarhd.online:80/live/307210113513/307210113513/78759.m3u8
+#EXTINF:-1,|FR|HEVC| CINE+ PREMIER
+http://bazarhd.online:80/live/307210113513/307210113513/78758.m3u8
+#EXTINF:-1,|FR|HEVC| CINE+ FRISSON
+http://bazarhd.online:80/live/307210113513/307210113513/78757.m3u8
+#EXTINF:-1,|FR|HEVC| CINE+ EMOTION
+http://bazarhd.online:80/live/307210113513/307210113513/78756.m3u8
+#EXTINF:-1,|FR|HEVC| CINE+ FAMIZ
+http://bazarhd.online:80/live/307210113513/307210113513/78755.m3u8
+#EXTINF:-1,|FR|HEVC| CINE+ CLUB
+http://bazarhd.online:80/live/307210113513/307210113513/78754.m3u8
+#EXTINF:-1,|FR|HEVC| CINE+ CLASSIC
+http://bazarhd.online:80/live/307210113513/307210113513/78753.m3u8
+#EXTINF:-1,|FR|HEVC| PARAMOUNT DECALE
+http://bazarhd.online:80/live/307210113513/307210113513/78752.m3u8
+#EXTINF:-1,|FR|HEVC| PARAMOUNT CHANNEL
+http://bazarhd.online:80/live/307210113513/307210113513/78751.m3u8
+#EXTINF:-1,--------------- |FR| DIVERTISSEMENT HEVC --------------------
+http://bazarhd.online:80/live/307210113513/307210113513/78750.m3u8
+#EXTINF:-1,|FR|HEVC| POLAR+
+http://bazarhd.online:80/live/307210113513/307210113513/78749.m3u8
+#EXTINF:-1,|FR|HEVC| SYFY
+http://bazarhd.online:80/live/307210113513/307210113513/78748.m3u8
+#EXTINF:-1,|FR|HEVC| SERIE CLUB
+http://bazarhd.online:80/live/307210113513/307210113513/78747.m3u8
+#EXTINF:-1,|FR|HEVC| 13EME RUE
+http://bazarhd.online:80/live/307210113513/307210113513/78746.m3u8
+#EXTINF:-1,|FR|HEVC| ALTICE STUDIO
+http://bazarhd.online:80/live/307210113513/307210113513/78745.m3u8
+#EXTINF:-1,|FR|HEVC| WARNER TV
+http://bazarhd.online:80/live/307210113513/307210113513/78744.m3u8
+#EXTINF:-1,|FR|HEVC| TV BREIZH
+http://bazarhd.online:80/live/307210113513/307210113513/78743.m3u8
+#EXTINF:-1,|FR|HEVC| NRJ 12
+http://bazarhd.online:80/live/307210113513/307210113513/78742.m3u8
+#EXTINF:-1,|FR|HEVC| RMC STORY
+http://bazarhd.online:80/live/307210113513/307210113513/78741.m3u8
+#EXTINF:-1,|FR|HEVC| CHERIE 25
+http://bazarhd.online:80/live/307210113513/307210113513/78740.m3u8
+#EXTINF:-1,|FR|HEVC| PARIS PREMIERE
+http://bazarhd.online:80/live/307210113513/307210113513/78739.m3u8
+#EXTINF:-1,|FR|HEVC| VICELAND
+http://bazarhd.online:80/live/307210113513/307210113513/78738.m3u8
+#EXTINF:-1,|FR|HEVC| E! ENTERTAINMENT
+http://bazarhd.online:80/live/307210113513/307210113513/78737.m3u8
+#EXTINF:-1,|FR|HEVC| MY CUISINE
+http://bazarhd.online:80/live/307210113513/307210113513/78736.m3u8
+#EXTINF:-1,|FR|HEVC| J ONE
+http://bazarhd.online:80/live/307210113513/307210113513/78735.m3u8
+#EXTINF:-1,|FR|HEVC| GAME ONE
+http://bazarhd.online:80/live/307210113513/307210113513/78734.m3u8
+#EXTINF:-1,|FR|HEVC| MANGAS
+http://bazarhd.online:80/live/307210113513/307210113513/78733.m3u8
+#EXTINF:-1,|FR|HEVC| AB1
+http://bazarhd.online:80/live/307210113513/307210113513/78732.m3u8
+#EXTINF:-1,|FR|HEVC| AB3
+http://bazarhd.online:80/live/307210113513/307210113513/78731.m3u8
+#EXTINF:-1,|FR|HEVC| BET
+http://bazarhd.online:80/live/307210113513/307210113513/78730.m3u8
+#EXTINF:-1,|FR|HEVC| TV5 MONDE
+http://bazarhd.online:80/live/307210113513/307210113513/78729.m3u8
+#EXTINF:-1,|FR|HEVC| TELECLUB ZOOM
+http://bazarhd.online:80/live/307210113513/307210113513/78728.m3u8
+#EXTINF:-1,------------- |FR| SPORTS HEVC -----------------
+http://bazarhd.online:80/live/307210113513/307210113513/78727.m3u8
+#EXTINF:-1, CANAL+ LIGUE 1  FHD
+http://bazarhd.online:80/live/307210113513/307210113513/163113.m3u8
+#EXTINF:-1,|FR|HEVC| BEIN SPORT 1
+http://bazarhd.online:80/live/307210113513/307210113513/78725.m3u8
+#EXTINF:-1,|FR|HEVC| BEIN SPORT 2
+http://bazarhd.online:80/live/307210113513/307210113513/78724.m3u8
+#EXTINF:-1,|FR|HEVC| BEIN SPORT 3
+http://bazarhd.online:80/live/307210113513/307210113513/78723.m3u8
+#EXTINF:-1,|FR|HEVC| EUROSPORT 1
+http://bazarhd.online:80/live/307210113513/307210113513/78722.m3u8
+#EXTINF:-1,|FR|HEVC| EUROSPORT 2
+http://bazarhd.online:80/live/307210113513/307210113513/78721.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT NEWS
+http://bazarhd.online:80/live/307210113513/307210113513/78720.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT 1
+http://bazarhd.online:80/live/307210113513/307210113513/78719.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT 2
+http://bazarhd.online:80/live/307210113513/307210113513/78718.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT 3
+http://bazarhd.online:80/live/307210113513/307210113513/78717.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT 4
+http://bazarhd.online:80/live/307210113513/307210113513/78716.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 5
+http://bazarhd.online:80/live/307210113513/307210113513/78715.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 6
+http://bazarhd.online:80/live/307210113513/307210113513/78714.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 7
+http://bazarhd.online:80/live/307210113513/307210113513/78713.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 8
+http://bazarhd.online:80/live/307210113513/307210113513/78712.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 9
+http://bazarhd.online:80/live/307210113513/307210113513/78711.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 10
+http://bazarhd.online:80/live/307210113513/307210113513/78710.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 11
+http://bazarhd.online:80/live/307210113513/307210113513/78709.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 12
+http://bazarhd.online:80/live/307210113513/307210113513/78708.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 13
+http://bazarhd.online:80/live/307210113513/307210113513/78707.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 14
+http://bazarhd.online:80/live/307210113513/307210113513/78706.m3u8
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 15
+http://bazarhd.online:80/live/307210113513/307210113513/78705.m3u8
+#EXTINF:-1,|FR|HEVC| MULTI SPORTS 1
+http://bazarhd.online:80/live/307210113513/307210113513/78704.m3u8
+#EXTINF:-1,|FR|HEVC| MULTI SPORTS 2
+http://bazarhd.online:80/live/307210113513/307210113513/78703.m3u8
+#EXTINF:-1,|FR|HEVC| MULTI SPORTS 4
+http://bazarhd.online:80/live/307210113513/307210113513/78702.m3u8
+#EXTINF:-1,|FR|HEVC| MULTIS PORTS 3
+http://bazarhd.online:80/live/307210113513/307210113513/78701.m3u8
+#EXTINF:-1,|FR|HEVC| MULTISPORTS 5
+http://bazarhd.online:80/live/307210113513/307210113513/78700.m3u8
+#EXTINF:-1,|FR|HEVC| MULTISPORTS 6
+http://bazarhd.online:80/live/307210113513/307210113513/78699.m3u8
+#EXTINF:-1,|FR|HEVC| FOOT+ 24
+http://bazarhd.online:80/live/307210113513/307210113513/78698.m3u8
+#EXTINF:-1,|FR|HEVC| INFO SPORT
+http://bazarhd.online:80/live/307210113513/307210113513/78697.m3u8
+#EXTINF:-1,|FR|HEVC| EQUIDIA LIVE
+http://bazarhd.online:80/live/307210113513/307210113513/78696.m3u8
+#EXTINF:-1,|FR|HEVC| GOLF+
+http://bazarhd.online:80/live/307210113513/307210113513/78695.m3u8
+#EXTINF:-1,|FR|HEVC| MOTORSPORT TV
+http://bazarhd.online:80/live/307210113513/307210113513/78694.m3u8
+#EXTINF:-1,|FR|HEVC| AUTO MOTO
+http://bazarhd.online:80/live/307210113513/307210113513/78693.m3u8
+#EXTINF:-1,|FR|HEVC| GAME ONE  +1
+http://bazarhd.online:80/live/307210113513/307210113513/78692.m3u8
+#EXTINF:-1,------------- |FR| DECOUVERTE HEVC -------------
+http://bazarhd.online:80/live/307210113513/307210113513/78691.m3u8
+#EXTINF:-1,|FR|HEVC| TOUTE L'HISTOIRE
+http://bazarhd.online:80/live/307210113513/307210113513/78690.m3u8
+#EXTINF:-1,|FR|HEVC| PLANETE+
+http://bazarhd.online:80/live/307210113513/307210113513/78689.m3u8
+#EXTINF:-1,|FR|HEVC| PLANETE  A&E
+http://bazarhd.online:80/live/307210113513/307210113513/78688.m3u8
+#EXTINF:-1,|FR|HEVC| PLANETE+ CI
+http://bazarhd.online:80/live/307210113513/307210113513/78687.m3u8
+#EXTINF:-1,|FR|HEVC| DISCOVERY
+http://bazarhd.online:80/live/307210113513/307210113513/78686.m3u8
+#EXTINF:-1,|FR|HEVC| DISCOVERY SCIENCE
+http://bazarhd.online:80/live/307210113513/307210113513/78685.m3u8
+#EXTINF:-1,|FR|HEVC| DISCOVERY FAMILY
+http://bazarhd.online:80/live/307210113513/307210113513/78684.m3u8
+#EXTINF:-1,|FR|HEVC| DISCOVERY ID
+http://bazarhd.online:80/live/307210113513/307210113513/78683.m3u8
+#EXTINF:-1,|FR|HEVC| DISCOVERY INVESTIGATION
+http://bazarhd.online:80/live/307210113513/307210113513/78682.m3u8
+#EXTINF:-1,|FR|HEVC| NGC
+http://bazarhd.online:80/live/307210113513/307210113513/78681.m3u8
+#EXTINF:-1,|FR|HEVC| NGC WILD
+http://bazarhd.online:80/live/307210113513/307210113513/78680.m3u8
+#EXTINF:-1,|FR|HEVC| VOYAGE
+http://bazarhd.online:80/live/307210113513/307210113513/78679.m3u8
+#EXTINF:-1,|FR|HEVC| USHUAIA
+http://bazarhd.online:80/live/307210113513/307210113513/78678.m3u8
+#EXTINF:-1,|FR|HEVC| HISTOIRE
+http://bazarhd.online:80/live/307210113513/307210113513/78677.m3u8
+#EXTINF:-1,|FR|HEVC| ANIMAUX
+http://bazarhd.online:80/live/307210113513/307210113513/78676.m3u8
+#EXTINF:-1,|FR|HEVC| TREK
+http://bazarhd.online:80/live/307210113513/307210113513/78675.m3u8
+#EXTINF:-1,|FR|HEVC| CHASSE&PECHE
+http://bazarhd.online:80/live/307210113513/307210113513/78674.m3u8
+#EXTINF:-1,|FR|HEVC| SCIENCE ET VIE
+http://bazarhd.online:80/live/307210113513/307210113513/78673.m3u8
+#EXTINF:-1,|FR|HEVC| RMC DECOUVERTE
+http://bazarhd.online:80/live/307210113513/307210113513/78672.m3u8
+#EXTINF:-1,|FR|HEVC| SEASONS
+http://bazarhd.online:80/live/307210113513/307210113513/78671.m3u8
+#EXTINF:-1,|FR|HEVC| GULLI
+http://bazarhd.online:80/live/307210113513/307210113513/78670.m3u8
+#EXTINF:-1,|FR|HEVC| TCM CINEMA
+http://bazarhd.online:80/live/307210113513/307210113513/78669.m3u8
+#EXTINF:-1,|FR|HEVC| CRIME DISTRICT
+http://bazarhd.online:80/live/307210113513/307210113513/78668.m3u8
+#EXTINF:-1,---------------- |FR| INFORMATION HEVC -----------------
+http://bazarhd.online:80/live/307210113513/307210113513/78667.m3u8
+#EXTINF:-1,|FR|HEVC| C NEWS
+http://bazarhd.online:80/live/307210113513/307210113513/78666.m3u8
+#EXTINF:-1,|FR|HEVC| BFM TV
+http://bazarhd.online:80/live/307210113513/307210113513/78665.m3u8
+#EXTINF:-1,|FR|HEVC| CANAL NEWS
+http://bazarhd.online:80/live/307210113513/307210113513/78664.m3u8
+#EXTINF:-1,|FR|HEVC| LCI
+http://bazarhd.online:80/live/307210113513/307210113513/78663.m3u8
+#EXTINF:-1,|FR|HEVC| FRANCE INFO
+http://bazarhd.online:80/live/307210113513/307210113513/78662.m3u8
+#EXTINF:-1,|FR|HEVC| EURONEWS (FRENCH)
+http://bazarhd.online:80/live/307210113513/307210113513/78661.m3u8
+#EXTINF:-1,|FR|HEVC| FRANCE 24
+http://bazarhd.online:80/live/307210113513/307210113513/78660.m3u8
+#EXTINF:-1,|FR|HEVC| LCP
+http://bazarhd.online:80/live/307210113513/307210113513/78659.m3u8
+#EXTINF:-1,|FR|HEVC| BFM BUSINESS
+http://bazarhd.online:80/live/307210113513/307210113513/78658.m3u8
+#EXTINF:-1,|FR|HEVC| BFM PARIS
+http://bazarhd.online:80/live/307210113513/307210113513/78657.m3u8
+#EXTINF:-1,|FR|HEVC| I 24 NEWS
+http://bazarhd.online:80/live/307210113513/307210113513/78656.m3u8
+#EXTINF:-1,--------------- |FR| MUSIQUE HEVC -------------------
+http://bazarhd.online:80/live/307210113513/307210113513/78655.m3u8
+#EXTINF:-1,|FR|HEVC| M6 MUSIC
+http://bazarhd.online:80/live/307210113513/307210113513/78654.m3u8
+#EXTINF:-1,|FR|HEVC| TRACE URBAN
+http://bazarhd.online:80/live/307210113513/307210113513/78653.m3u8
+#EXTINF:-1,|FR|HEVC| MEZZO LIVE
+http://bazarhd.online:80/live/307210113513/307210113513/78652.m3u8
+#EXTINF:-1,|FR|HEVC| MCM
+http://bazarhd.online:80/live/307210113513/307210113513/78651.m3u8
+#EXTINF:-1,|FR|HEVC| MCM TOP
+http://bazarhd.online:80/live/307210113513/307210113513/78650.m3u8
+#EXTINF:-1,|FR|HEVC| LFM TV
+http://bazarhd.online:80/live/307210113513/307210113513/78649.m3u8
+#EXTINF:-1,|FR|HEVC| MELODY TV
+http://bazarhd.online:80/live/307210113513/307210113513/78648.m3u8
+#EXTINF:-1,|FR|HEVC| NRJ HITS
+http://bazarhd.online:80/live/307210113513/307210113513/78647.m3u8
+#EXTINF:-1,|FR|HEVC| RFM TV
+http://bazarhd.online:80/live/307210113513/307210113513/78646.m3u8
+#EXTINF:-1,|FR|HEVC| MTV
+http://bazarhd.online:80/live/307210113513/307210113513/78645.m3u8
+#EXTINF:-1,|FR|HEVC| MTV LIVE
+http://bazarhd.online:80/live/307210113513/307210113513/78644.m3u8
+#EXTINF:-1,|FR|HEVC| MTV HITS
+http://bazarhd.online:80/live/307210113513/307210113513/78643.m3u8
+#EXTINF:-1,|FR|HEVC| TVM3
+http://bazarhd.online:80/live/307210113513/307210113513/78642.m3u8
+#EXTINF:-1,|FR|HEVC| C STAR HIT
+http://bazarhd.online:80/live/307210113513/307210113513/78641.m3u8
+#EXTINF:-1,|FR|HEVC| C STAR HITS
+http://bazarhd.online:80/live/307210113513/307210113513/78640.m3u8
+#EXTINF:-1,--------------|FR| JEUNESSE HEVC ------------
+http://bazarhd.online:80/live/307210113513/307210113513/78547.m3u8
+#EXTINF:-1,|FR|HEVC| BABY TV
+http://bazarhd.online:80/live/307210113513/307210113513/78546.m3u8
+#EXTINF:-1,|FR|HEVC| TIJI
+http://bazarhd.online:80/live/307210113513/307210113513/78545.m3u8
+#EXTINF:-1,|FR|HEVC| BOOMERANG
+http://bazarhd.online:80/live/307210113513/307210113513/78544.m3u8
+#EXTINF:-1,|FR|HEVC| CARTOON NETWORK
+http://bazarhd.online:80/live/307210113513/307210113513/78543.m3u8
+#EXTINF:-1,|FR|HEVC| TOONAMI
+http://bazarhd.online:80/live/307210113513/307210113513/78542.m3u8
+#EXTINF:-1,|FR|HEVC| TELE TOON 1
+http://bazarhd.online:80/live/307210113513/307210113513/78541.m3u8
+#EXTINF:-1,|FR|HEVC| TELETOON+
+http://bazarhd.online:80/live/307210113513/307210113513/78540.m3u8
+#EXTINF:-1,|FR|HEVC| CANAL J
+http://bazarhd.online:80/live/307210113513/307210113513/78539.m3u8
+#EXTINF:-1,|FR|HEVC| BOING
+http://bazarhd.online:80/live/307210113513/307210113513/78538.m3u8
+#EXTINF:-1,|FR|HEVC| DISNEY JUNIOR
+http://bazarhd.online:80/live/307210113513/307210113513/78537.m3u8
+#EXTINF:-1,|FR|HEVC| DISNEY CHANNEL +1
+http://bazarhd.online:80/live/307210113513/307210113513/78536.m3u8
+#EXTINF:-1,|FR|HEVC| DISNEY CHANNEL
+http://bazarhd.online:80/live/307210113513/307210113513/78535.m3u8
+#EXTINF:-1,|FR|HEVC| PIWI
+http://bazarhd.online:80/live/307210113513/307210113513/78534.m3u8
+#EXTINF:-1,|FR|HEVC| NICKELODEON
+http://bazarhd.online:80/live/307210113513/307210113513/78533.m3u8
+#EXTINF:-1,|FR|HEVC| NICKELODEON JUNIOR
+http://bazarhd.online:80/live/307210113513/307210113513/78532.m3u8
+#EXTINF:-1,|FR|HEVC| NICKELODEON 4 TEEN
+http://bazarhd.online:80/live/307210113513/307210113513/78531.m3u8
+#EXTINF:-1,------------- |FR| JEUNESSE HD---------------
+http://bazarhd.online:80/live/307210113513/307210113513/78530.m3u8
+#EXTINF:-1,|FR| BABY TV
+http://bazarhd.online:80/live/307210113513/307210113513/78527.m3u8
+#EXTINF:-1,|FR| TIJI HD
+http://bazarhd.online:80/live/307210113513/307210113513/78526.m3u8
+#EXTINF:-1,|FR| BOOMERANG HD
+http://bazarhd.online:80/live/307210113513/307210113513/78525.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK HD
+http://bazarhd.online:80/live/307210113513/307210113513/78524.m3u8
+#EXTINF:-1,|FR| TOONAMI HD
+http://bazarhd.online:80/live/307210113513/307210113513/78523.m3u8
+#EXTINF:-1,|FR| TELE TOON 1 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78522.m3u8
+#EXTINF:-1,|FR| TELETOON+ HD
+http://bazarhd.online:80/live/307210113513/307210113513/78521.m3u8
+#EXTINF:-1,|FR| CANAL J HD
+http://bazarhd.online:80/live/307210113513/307210113513/78520.m3u8
+#EXTINF:-1,|FR| BOING HD
+http://bazarhd.online:80/live/307210113513/307210113513/78519.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR HD
+http://bazarhd.online:80/live/307210113513/307210113513/78518.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL +1 HD
+http://bazarhd.online:80/live/307210113513/307210113513/78517.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL HD
+http://bazarhd.online:80/live/307210113513/307210113513/78516.m3u8
+#EXTINF:-1,|FR| PIWI HD
+http://bazarhd.online:80/live/307210113513/307210113513/78515.m3u8
+#EXTINF:-1,|FR| NICKELODEON HD
+http://bazarhd.online:80/live/307210113513/307210113513/78514.m3u8
+#EXTINF:-1,|FR| NICKELODEON 4 TEEN HD
+http://bazarhd.online:80/live/307210113513/307210113513/78513.m3u8
+#EXTINF:-1,|FR| NICKELODEON JUNIOR HD
+http://bazarhd.online:80/live/307210113513/307210113513/78512.m3u8
+#EXTINF:-1,--------------- |FR| JEUNESSE SD -------------
+http://bazarhd.online:80/live/307210113513/307210113513/78511.m3u8
+#EXTINF:-1,|FR|SD| BABY TV
+http://bazarhd.online:80/live/307210113513/307210113513/78510.m3u8
+#EXTINF:-1,|FR|SD| TIJI 
+http://bazarhd.online:80/live/307210113513/307210113513/78509.m3u8
+#EXTINF:-1,|FR|SD| BOOMERANG 
+http://bazarhd.online:80/live/307210113513/307210113513/78508.m3u8
+#EXTINF:-1,|FR|SD| CARTOON NETWORK 
+http://bazarhd.online:80/live/307210113513/307210113513/78507.m3u8
+#EXTINF:-1,|FR|SD| TOONAMI
+http://bazarhd.online:80/live/307210113513/307210113513/78506.m3u8
+#EXTINF:-1,|FR|SD| TELETOON+ 
+http://bazarhd.online:80/live/307210113513/307210113513/78505.m3u8
+#EXTINF:-1,|FR|SD| TELE TOON 1 
+http://bazarhd.online:80/live/307210113513/307210113513/78504.m3u8
+#EXTINF:-1,|FR|SD| CANAL J 
+http://bazarhd.online:80/live/307210113513/307210113513/78503.m3u8
+#EXTINF:-1,|FR|SD| BOING 
+http://bazarhd.online:80/live/307210113513/307210113513/78502.m3u8
+#EXTINF:-1,|FR|SD| DISNEY JUNIOR
+http://bazarhd.online:80/live/307210113513/307210113513/78501.m3u8
+#EXTINF:-1,|FR|SD| DISNEY CHANNEL +1
+http://bazarhd.online:80/live/307210113513/307210113513/78500.m3u8
+#EXTINF:-1,|FR|SD| DISNEY CHANNEL
+http://bazarhd.online:80/live/307210113513/307210113513/78499.m3u8
+#EXTINF:-1,|FR|SD| PIWI 
+http://bazarhd.online:80/live/307210113513/307210113513/78498.m3u8
+#EXTINF:-1,|FR|SD| NICKELODEON 
+http://bazarhd.online:80/live/307210113513/307210113513/78497.m3u8
+#EXTINF:-1,|FR|SD| NICKELODEON JUNIOR 
+http://bazarhd.online:80/live/307210113513/307210113513/78496.m3u8
+#EXTINF:-1,|FR|SD| NICKELODEON 4 TEEN 
+http://bazarhd.online:80/live/307210113513/307210113513/78495.m3u8
