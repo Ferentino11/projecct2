@@ -2523,3 +2523,159 @@ http://79.101.42.11:17000/play/SkyBundesliga4
 http://79.101.42.11:17000/play/TNTComedy
 #EXTINF:-1,TNT Film HD
 http://79.101.42.11:17000/play/a03s
+#EXTINF:-1, TF1
+http://pebbles109-lh.akamaihd.net/i/tf1_1@97468/index_900_av-b.m3u8|User-Agent=Mozilla%2F5.0%20(iPhone%3B%20U%3B%20CPU%20iPhone%20OS%203_0%20like%20Mac%20OS%20X%3B%20en-us)%20AppleWebKit%2F528.18%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Mobile%2F7A341%20Safari%2F528.16&X-Forwarded-For=146.159.95.38
+
+#EXTINF:-1 ,TF1
+http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/tf1hl874093481.m3u8
+
+#EXTINF:-1,France 2 HD
+http://pebbles101-lh.akamaihd.net/i/france2_1@97347/index_900_av-b.m3u8|X-Forwarded-For=146.159.95.38
+
+#EXTINF:-1,France 3
+http://pebbles100-lh.akamaihd.net/i/france3_1@97329/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
+
+#EXTINF:-1,France 2
+http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/f277209358946trd.m3u8
+#EXTINF:-1 ,France 3
+http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/f37736209812hgd.m3u8
+
+#EXTINF:-1,France 5
+http://pebbles102-lh.akamaihd.net/i/france5_1@97351/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
+
+#EXTINF:-1,M6 HD
+http://pebbles108-lh.akamaihd.net/i/m6_1@97467/index_1300_av-p.m3u8|X-Forwarded-For=146.159.95.38
+
+#EXTINF:-1 ,M6
+http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/m6hd339407138.m3u8
+#EXTINF:-1 ,Arte
+http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/artehd90231836.m3u8
+#EXTINF:-1 ,D8
+http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/d8hd8183309618.m3u8
+
+#EXTINF:-1,CHASSE ET PECHE
+http://87.248.160.8/edge/smil:chassepeche/playlist.m3u8
+#EXTINF:-1,CANAL+
+http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canphd38917199.m3u8
+#EXTINF:-1,CANAL+ Cinéma
+http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canchd939493889.m3u8
+#EXTINF:-1,CANAL+ Décalé
+http://wpc.e803.mucdn.net/80E803/Scam/hls/Canal_Plus_Decale_HD.m3u8
+#EXTINF:-1,CANAL+ Sport
+http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canshd7432765230.m3u8
+#EXTINF:-1,CANAL+ Séries
+http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canshdx84993660.m3u8
+#EXTINF:-1,CANAL+ Family
+http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canf23851231yuf.m3u8
+#EXTINF:-1,CINE+ Premier
+http://wpc.e803.mucdn.net/80E803/Scam/hls/Cine_plus_Premier_HD.m3u8
+
+#EXTINF:-1,CINE+ Emotion
+http://wpc.e803.mucdn.net/80E803/Scam/hls/Cine_Emotion_HD.m3u8
+#EXTINF:-1 ,Science & Vie Tv
+http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
+#EXTINF:-1 ,My Zen.tv
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2
+#EXTINF:-1 ,NAT GEO WILD
+http://wpc.e803.mucdn.net/80E803/Scam/hls/National_Geo_Wild_FR_HD.m3u8
+#EXTINF:-1 ,NATIONAL GEO
+http://wpc.e803.mucdn.net/80E803/Scam/hls/National_Geo_FR_HD.m3u8
+#EXTINF:-1 ,PLANETE+ THALASSA
+http://wpc.e803.mucdn.net/80E803/Scam/hls/Planet_Thalassa_HD.m3u8
+#EXTINF:-1 ,PLANETE+
+http://wpc.e803.mucdn.net/80E803/Scam/hls/Planet_Plus_HD.m3u8
+#EXTINF:-1 ,Gong Base
+rtsp://ec.playmedia.fr:1935/gong-base/live
+#EXTINF:-1 ,AB1
+http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=ab1&type=.m3u8
+
+#EXTINF:-1,TV5MONDE
+http://pvr.tvip.ga/0234.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1,Cartoon Network
+http://pvr.tvip.ga/0239.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 ,RTL9
+http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
+
+#EXTINF:-1,Arte (German/French Tv)
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#EXTINF:-1,Arte
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+
+#EXTINF:-1,Arte HD
+http://pebbles101-lh.akamaihd.net/i/artefr_1@97346/index_1300_av-p.m3u8|X-Forwarded-For=146.159.95.38
+
+#EXTINF:-1 tvg-id= »I123.751942.microsoft.com » tvg-name= »CP » group-title= »Franco »,CHASSE ET PECHE
+http://87.248.160.8/edge/smil:chassepeche/playlist.m3u8
+
+#EXTINF:-1,WÈo
+rtmp://str81.creacast.com:80/weo/high
+
+#EXTINF:-1, Antenne RÈunion
+http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo= »tva.png » tvg-id= »I4.28457403.microsoft.com » tvg-name= »TVA » group-title= »FRANCO »,TVA Montréal
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+
+
+#EXTM3U
+#EXTINF:-1,[COLOR yellow]by http://iptv-m3u-playlist-url.blogspot.com/[/COLOR]
+1,RTS Un 576P tntfrfree
+http://tntfrforfree.1s.fr/124/play.m3u8
+ #EXTINF:-1,RTS Deux 576P tntfrfree
+http://tntfrforfree.1s.fr/125/play.m3u8
+ #EXTINF:-1,HD1 1080P tntfrfree
+http://tntfrforfree.1s.fr/20/play.m3u8
+ #EXTINF:-1,NUMERO 23 1080P tntfrfree
+http://tntfrforfree.1s.fr/23/play.m3u8
+ #EXTINF:-1,Cherie 25 1080P tntfrfree
+http://tntfrforfree.1s.fr/25/play.m3u8
+ #EXTINF:-1,M6 HD 1080P tntfrfree
+http://tntfrforfree.1s.fr/6/play.m3u8
+ #EXTINF:-1,M6 HD 576P tntfrfree
+http://tntfrforfree.1s.fr/106/play.m3u8
+ #EXTINF:-1,6TER 1080P tntfrfree
+http://tntfrforfree.1s.fr/22/play.m3u8
+ #EXTINF:-1,Canal+ 576P tntfrfree
+http://tntfrforfree.1s.fr/4/play.m3u8
+ #EXTINF:-1,TF1 HD 1080P tntfrfree
+http://tntfrforfree.1s.fr/1/play.m3u8
+ #EXTINF:-1,TF1 576P tntfrfree
+http://tntfrforfree.1s.fr/101/play.m3u8
+ #EXTINF:-1,France Q 576P tntfrfree
+http://tntfrforfree.1s.fr/19/play.m3u8
+ #EXTINF:-1,France 2 HD 1080P tntfrfree
+http://tntfrforfree.1s.fr/2/play.m3u8
+ #EXTINF:-1,France 2 576P tntfrfree
+http://tntfrforfree.1s.fr/102/play.m3u8
+ #EXTINF:-1,France 3 576P tntfrfree
+http://tntfrforfree.1s.fr/30/play.m3u8
+ #EXTINF:-1,France 4 576P tntfrfree
+http://tntfrforfree.1s.fr/14/play.m3u8
+ #EXTINF:-1,France 5 576P tntfrfree
+http://tntfrforfree.1s.fr/5/play.m3u8
+ #EXTINF:-1,ARTE 1080P tntfrfree
+http://tntfrforfree.1s.fr/7/play.m3u8
+ #EXTINF:-1,ARTE 576P tntfrfree
+http://tntfrforfree.1s.fr/107/play.m3u8
+ #EXTINF:-1,D8 576P tntfrfree
+http://tntfrforfree.1s.fr/8/play.m3u8
+ #EXTINF:-1,D17 576P tntfrfree
+http://tntfrforfree.1s.fr/17/play.m3u8
+ #EXTINF:-1,W9 576P tntfrfree
+http://tntfrforfree.1s.fr/9/play.m3u8
+ #EXTINF:-1,TMC 576P tntfrfree
+http://tntfrforfree.1s.fr/10/play.m3u8
+ #EXTINF:-1,NT1 576P tntfrfree
+http://tntfrforfree.1s.fr/11/play.m3u8
+ #EXTINF:-1,NRJ12 576P tntfrfree
+http://tntfrforfree.1s.fr/12/play.m3u8
+ #EXTINF:-1,BFM 576P tntfrfree
+http://tntfrforfree.1s.fr/15/play.m3u8
+ #EXTINF:-1,Gulli 576P tntfrfree
+http://tntfrforfree.1s.fr/18/play.m3u8
+ #EXTINF:-1,Lequipe 1080P
+http://tntfrforfree.1s.fr/21/play.m3u8
+ #EXTINF:-1,RMC Docouverte 1080P tntfrfree
+http://tntfrforfree.1s.fr/24/play.m3u8
+ #EXTINF:-1,TV8 Mont Blanc 576P tntfrfree
+http://tntfrforfree.1s.fr/31/play.m3u8 
